@@ -1,0 +1,2067 @@
+AreaSQFT,BuildingType,Trade,Complexity,Days
+53830,Transport,Domestic water,1,3.09
+54000,Hotel,Mech. Duct,1,7.86
+17500,College / University,Lighting,1,1.40
+44000,School,AV /Wireless,1,1.12
+145850,School,Sanitary & Storm,1,12.36
+138309,Healthcare,AV /Wireless,1,2.53
+88059,School,Mech. Pipe,1,5.62
+172000,Hotel,Power,1,7.86
+57374,School,Fire Alarm,1,0.84
+105451,School,Sanitary & Storm,1,10.11
+701572,Warehouse / Supermarket,Sanitary & Storm,1,6.74
+49000,Government,Lighting,1,2.25
+49000,Government,Telecomm,1,1.97
+45000,College / University,Mech. Pipe,1,3.93
+7299,School,Domestic water,1,2.81
+17500,School,Lighting,1,1.68
+17500,School,Power,1,3.93
+321139,Warehouse / Supermarket,Power,1,3.93
+184374,College / University,Telecomm,1,3.37
+18066,Office Building,Power,1,4.77
+37790,Industrial,Telecomm,1,1.68
+36000,Hotel,Sanitary & Storm,1,8.99
+24442,Residential,Lighting,1,3.65
+225647,School,Fire Alarm,1,2.81
+30181,School,Telecomm,1,2.25
+36000,Residential,Domestic water,1,6.80
+36000,Residential,Domestic water,1,6.80
+36000,Residential,Power,1,7.02
+40000,Office Building,Domestic water,1,3.93
+222000,Parking,Telecomm,1,2.13
+86300,Hotel,Sanitary & Storm,1,10.11
+86300,Hotel,Domestic water,1,8.14
+110982,School,Power,1,6.74
+18650,Healthcare,Power,1,6.18
+18650,Healthcare,Telecomm,1,1.12
+99000,School,Domestic water,1,6.74
+20500,Other Commercial,Lighting,1,1.97
+36063,Other Commercial,Sanitary & Storm,1,5.17
+175000,Industrial,Sanitary & Storm,1,17.13
+38000,Residential,Sanitary & Storm,1,10.11
+52186,Office Building,Telecomm,1,2.81
+13000,Industrial,Fire Alarm,1,0.70
+26661,Warehouse / Supermarket,Fire Alarm,1,0.84
+24000,Office Building,Power,1,4.72
+132000,School,Lighting,1,4.77
+79340,Healthcare,Domestic water,1,7.30
+77905,Healthcare,Fire Alarm,1,1.12
+18700,Warehouse / Supermarket,Mech. Duct,1,5.62
+186000,Residential,AV /Wireless,1,2.13
+131794,Government,Lighting,1,5.62
+131794,Government,AV /Wireless,1,1.68
+131794,Government,Lighting,1,5.62
+131794,Government,AV /Wireless,1,1.68
+131794,Government,Lighting,1,5.62
+131794,Government,AV /Wireless,1,1.68
+131794,Government,Lighting,1,5.62
+131794,Government,AV /Wireless,1,1.68
+33000,School,Mech. Duct,1,7.30
+20000,Residential,Domestic water,1,6.18
+61800,Other Commercial,Telecomm,1,2.53
+66500,Hotel,Mech. Pipe,1,5.05
+895000,Parking,Power,1,7.30
+242089,Residential,Domestic water,1,12.92
+181000,Healthcare,Sanitary & Storm,1,25.27
+85834,School,Fire Alarm,1,1.12
+100000,Transport,Sanitary & Storm,1,6.46
+13761,Government,Mech. Duct,1,4.49
+13761,Government,Mech. Pipe,1,2.25
+87250,Residential,Power,1,7.86
+40000,Office Building,Power,1,5.05
+41165,Warehouse / Supermarket,Fire Alarm,1,0.84
+42000,Other Commercial,Sanitary & Storm,1.5,5.82
+42000,Other Commercial,Domestic water,1.5,4.02
+27619,College / University,Domestic water,1.5,2.22
+168292,School,Sanitary & Storm,1.5,15.52
+114000,School,Sanitary & Storm,1.5,11.09
+105000,Military,Mech. Duct,1.5,13.86
+77985,College / University,Fire Alarm,1.5,1.11
+64500,Office Building,Domestic water,1.5,4.44
+120000,Healthcare,Mech. Duct,1.5,19.96
+280000,Warehouse / Supermarket,Sanitary & Storm,1.5,5.54
+106974,School,Telecomm,1.5,3.33
+145850,School,Lighting,1.5,5.54
+45000,School,Telecomm,1.5,2.55
+66980,College / University,Domestic water,1.5,4.71
+1344292,Residential,Power,1.5,32.16
+44500,School,Power,1.5,4.99
+73370,College / University,Domestic water,1.5,4.99
+701572,Warehouse / Supermarket,Mech. Pipe,1.5,4.44
+65711,School,Power,1.5,5.82
+53767,Office Building,AV /Wireless,1.5,1.11
+125000,Parking,Lighting,1.5,3.33
+31400,Industrial,Telecomm,1.5,1.66
+40000,College / University,AV /Wireless,1.5,0.55
+100000,School,Domestic water,1.5,7.21
+100000,School,Lighting,1.5,3.99
+321139,Warehouse / Supermarket,Lighting,1.5,1.66
+148810,Warehouse / Supermarket,Power,1.5,3.88
+245212,Warehouse / Supermarket,Power,1.5,3.88
+80000,School,Mech. Duct,1.5,11.03
+264085,Residential,Power,1.5,11.48
+33000,College / University,Mech. Duct,1.5,4.99
+33000,College / University,Fire Alarm,1.5,0.55
+26554,School,Power,1.5,4.44
+25000,College / University,Lighting,1.5,1.55
+36000,Residential,Sanitary & Storm,1.5,11.09
+36000,Residential,Power,1.5,7.48
+36000,Residential,Sanitary & Storm,1.5,11.09
+40000,Office Building,Telecomm,1.5,2.77
+20500,Other Commercial,Sanitary & Storm,1.5,4.44
+20679,Industrial,Mech. Duct,1.5,8.87
+36063,Other Commercial,Domestic water,1.5,3.66
+84978,School,Power,1.5,6.49
+213321,Residential,Fire Alarm,1.5,2.49
+8248,Government,Sanitary & Storm,1.5,4.71
+38000,Residential,Lighting,1.5,4.16
+41000,College / University,Telecomm,1.5,1.94
+36699,School,Mech. Pipe,1.5,3.33
+16900,Other Commercial,Mech. Pipe,1.5,3.88
+23479,Residential,Lighting,1.5,3.88
+100000,Healthcare,Mech. Duct,1.5,15.80
+308000,School,Fire Alarm,1.5,3.88
+16000,College / University,Lighting,1.5,1.39
+222078,Government,Power,1.5,16.08
+64200,College / University,Mech. Pipe,1.5,5.54
+64200,College / University,Telecomm,1.5,2.22
+20000,Residential,Telecomm,1.5,3.88
+16700,Warehouse / Supermarket,Power,1.5,3.88
+66500,Hotel,Domestic water,1.5,8.26
+242089,Residential,Mech. Duct,1.5,16.08
+85834,School,Mech. Duct,1.5,11.64
+85834,School,Sanitary & Storm,1.5,8.87
+14000,Office Building,Mech. Pipe,1.5,3.88
+14000,Office Building,Lighting,1.5,3.33
+17800,Government,Sanitary & Storm,1.5,4.99
+17800,Government,Domestic water,1.5,3.33
+87410,School,Mech. Duct,1.5,11.37
+45000,College / University,Mech. Duct,1.5,6.65
+40000,Office Building,Lighting,1.5,3.33
+104168,School,Domestic water,1.5,7.21
+18300,Office Building,Domestic water,1.5,4.16
+18300,Office Building,Telecomm,1.5,2.77
+121000,School,Power,1.5,7.21
+168292,School,Domestic water,2,10.54
+26110,School,Sanitary & Storm,2,4.93
+26110,School,Lighting,2,2.19
+114000,School,Domestic water,2,8.21
+13900,School,Power,2,4.38
+62000,Other Educational,Power,2,3.83
+178000,School,Fire Alarm,2,2.46
+105000,Military,Domestic water,2,8.21
+120000,Healthcare,Sanitary & Storm,2,18.61
+120000,Healthcare,Medical Gas,2,4.38
+33768,Industrial,Domestic water,2,3.28
+106974,School,AV /Wireless,2,1.64
+103783,School,Mech. Duct,2,13.68
+103783,School,Sanitary & Storm,2,11.17
+103783,School,Telecomm,2,3.50
+45000,School,AV /Wireless,2,1.31
+65000,Military,Mech. Duct,2,8.76
+76545,School,Domestic water,2,6.57
+178000,Healthcare,Mech. Duct,2,31.20
+45000,College / University,Power,2,5.47
+246096,School,Fire Alarm,2,3.28
+78500,School,Mech. Duct,2,11.22
+321139,Warehouse / Supermarket,Fire Alarm,2,1.09
+12500,Government,Mech. Pipe,2,2.46
+9500,College / University,Lighting,2,1.37
+125415,Government,Sanitary & Storm,2,8.76
+45213,College / University,Mech. Pipe,2,4.38
+44840,College / University,Power,2,5.47
+33000,College / University,Domestic water,2,2.74
+33000,College / University,Lighting,2,1.75
+26554,School,Lighting,2,2.19
+36000,Government,Power,2,4.10
+345000,Healthcare,Telecomm,2,12.31
+722000,Residential,Lighting,2,12.86
+24442,Residential,Mech. Duct,2,9.85
+10886,Other Commercial,Power,2,3.83
+25000,College / University,Mech. Duct,2,4.10
+401870,Residential,Lighting,2,9.03
+95000,Industrial,Mech. Pipe,2,12.04
+15552,Healthcare,Lighting,2,3.01
+40000,Office Building,Mech. Duct,2,7.66
+222000,Parking,Lighting,2,3.83
+12490,Other Educational,Lighting,2,1.64
+110982,School,Sanitary & Storm,2,11.49
+110982,School,Fire Alarm,2,1.64
+376197,Industrial,Mech. Duct,2,41.87
+108152,School,Fire Alarm,2,1.64
+108152,School,AV /Wireless,2,1.64
+20500,Other Commercial,Domestic water,2,3.28
+84978,School,Lighting,2,3.83
+175000,Industrial,Power,2,17.51
+100000,School,Telecomm,2,3.28
+284000,Office Building,AV /Wireless,2,1.09
+28500,Industrial,Mech. Pipe,2,10.40
+290000,Residential,Lighting,2,7.66
+18000,Office Building,Sanitary & Storm,2,6.02
+41000,College / University,Lighting,2,1.92
+24000,Office Building,Telecomm,2,2.96
+215000,Government,Lighting,2,9.85
+158000,School,Power,2,8.89
+7049,Residential,Domestic water,2,6.57
+79340,Healthcare,Power,2,7.88
+39600,Warehouse / Supermarket,Mech. Pipe,2,4.38
+39600,Warehouse / Supermarket,Domestic water,2,3.83
+56900,Hotel,Lighting,2,4.38
+60000,Warehouse / Supermarket,Lighting,2,1.64
+77905,Healthcare,Telecomm,2,3.28
+18700,Warehouse / Supermarket,Lighting,2,1.64
+70000,Residential,Lighting,2,4.82
+283285,Residential,Mech. Duct,2,19.16
+283285,Residential,Mech. Pipe,2,11.49
+283285,Residential,Domestic water,2,15.32
+283285,Residential,Power,2,12.86
+131794,Government,Power,2,10.95
+65000,Government,Lighting,2,3.28
+131794,Government,Power,2,10.95
+131794,Government,Power,2,10.95
+131794,Government,Power,2,10.95
+104094,School,Mech. Pipe,2,6.84
+159906,Other Commercial,Domestic water,2,8.76
+159906,Other Commercial,Power,2,9.85
+32000,Government,Mech. Pipe,2,3.28
+18284,Office Building,Domestic water,2,4.38
+16700,Warehouse / Supermarket,Mech. Pipe,2,4.38
+634000,Residential,Mech. Duct,2,30.65
+242089,Residential,Sanitary & Storm,2,18.61
+242089,Residential,Lighting,2,7.12
+242089,Residential,Power,2,12.04
+182000,College / University,Mech. Pipe,2,15.87
+181000,Healthcare,Mech. Duct,2,30.65
+85834,School,Power,2,6.57
+22174,School,Mech. Duct,2,7.66
+28700,Warehouse / Supermarket,Mech. Pipe,2,4.38
+28700,Warehouse / Supermarket,Sanitary & Storm,2,4.93
+245000,School,Fire Alarm,2,3.28
+87250,Residential,Mech. Duct,2,12.04
+45000,College / University,Mech. Pipe,2,4.38
+104168,School,Sanitary & Storm,2,10.67
+85000,Military,Telecomm,2,4.38
+179833,Government,Lighting,2,8.48
+60827,School,Sanitary & Storm,2,7.66
+69650,Healthcare,Domestic water,2,7.12
+8000,Other Educational,Power,2,3.83
+26110,School,Mech. Pipe,2.5,3.24
+26110,School,Domestic water,2.5,4.32
+75000,Hotel,Power,2.5,5.94
+105000,Military,Mech. Pipe,2.5,6.75
+105000,Military,Telecomm,2.5,5.40
+77985,College / University,Mech. Duct,2.5,12.43
+25000,College / University,Medical Gas,2.5,2.16
+161368,Industrial,Sanitary & Storm,2.5,17.83
+161368,Industrial,Sanitary & Storm,2.5,17.83
+25000,School,Lighting,2.5,2.16
+40000,Healthcare,Lighting,2.5,3.51
+23900,Healthcare,Lighting,2.5,3.24
+23900,Healthcare,Power,2.5,7.56
+88059,School,Domestic water,2.5,7.56
+172000,Hotel,Lighting,2.5,6.48
+57374,School,Lighting,2.5,3.24
+57374,School,Power,2.5,6.21
+68500,School,Telecomm,2.5,3.24
+95425,School,Power,2.5,7.56
+265000,Parking,Power,2.5,7.83
+66792,Residential,Power,2.5,8.64
+65711,School,Fire Alarm,2.5,1.08
+53767,Office Building,Power,2.5,5.94
+125000,Parking,Fire Alarm,2.5,0.81
+276000,Office Building,Lighting,2.5,5.40
+128000,School,Lighting,2.5,5.40
+43000,Hotel,Mech. Pipe,2.5,4.32
+100000,School,Sanitary & Storm,2.5,11.35
+245212,Warehouse / Supermarket,Fire Alarm,2.5,1.08
+40500,Government,Power,2.5,4.86
+61000,School,Mech. Duct,2.5,11.35
+61000,School,Domestic water,2.5,5.89
+61000,School,Telecomm,2.5,3.24
+36127,Healthcare,Lighting,2.5,3.51
+37790,Industrial,Power,2.5,4.32
+45213,College / University,Lighting,2.5,2.16
+67000,Healthcare,Power,2.5,8.10
+115000,School,Telecomm,2.5,3.78
+10886,Other Commercial,Mech. Pipe,2.5,4.32
+25000,College / University,Sanitary & Storm,2.5,3.78
+17500,College / University,Lighting,2.5,1.62
+25878,Government,Sanitary & Storm,2.5,5.94
+40000,Office Building,Mech. Pipe,2.5,4.86
+222000,Parking,Power,2.5,7.56
+86300,Hotel,Mech. Duct,2.5,11.56
+12490,Other Educational,Sanitary & Storm,2.5,6.48
+47000,Healthcare,Fire Alarm,2.5,1.08
+110982,School,Mech. Duct,2.5,15.13
+110982,School,Lighting,2.5,4.86
+730000,Residential,Lighting,2.5,13.51
+43100,Military,Lighting,2.5,2.16
+95000,Government,Lighting,2.5,4.86
+139000,School,Lighting,2.5,5.94
+73000,Government,Lighting,2.5,3.78
+54000,Industrial,Domestic water,2.5,5.13
+175000,Industrial,Domestic water,2.5,14.05
+8248,Government,Mech. Duct,2.5,4.86
+8248,Government,Domestic water,2.5,3.24
+38000,Residential,Domestic water,2.5,8.10
+52186,Office Building,Power,2.5,5.94
+520000,Residential,Telecomm,2.5,4.59
+30000,Government,Power,2.5,4.05
+130150,Industrial,Mech. Pipe,2.5,12.97
+41000,College / University,Sanitary & Storm,2.5,5.40
+24000,Office Building,Lighting,2.5,3.78
+158000,School,Mech. Pipe,2.5,10.27
+79340,Healthcare,Mech. Duct,2.5,14.05
+79340,Healthcare,Mech. Pipe,2.5,6.48
+11800,Industrial,Lighting,2.5,1.62
+35000,Industrial,Lighting,2.5,2.16
+79000,Government,Power,2.5,7.56
+130000,Warehouse / Supermarket,Fire Alarm,2.5,1.08
+23900,Healthcare,Medical Gas,2.5,2.16
+18700,Warehouse / Supermarket,Mech. Pipe,2.5,4.86
+18700,Warehouse / Supermarket,Power,2.5,4.32
+70000,Residential,Power,2.5,8.64
+39971,Healthcare,Power,2.5,7.83
+308000,School,Lighting,2.5,11.35
+104094,School,Lighting,2.5,4.86
+159906,Other Commercial,Mech. Duct,2.5,11.89
+159906,Other Commercial,Mech. Pipe,2.5,5.94
+208833,Office Building,Mech. Pipe,2.5,7.02
+208833,Office Building,Domestic water,2.5,7.02
+208833,Office Building,Lighting,2.5,4.86
+33000,School,Domestic water,2.5,4.86
+33000,School,Telecomm,2.5,2.70
+115000,School,Telecomm,2.5,3.78
+225230,Other Commercial,Mech. Duct,2.5,14.37
+124000,School,Mech. Pipe,2.5,8.64
+65000,School,Sanitary & Storm,2.5,8.64
+61800,Other Commercial,Domestic water,2.5,5.40
+48169,Healthcare,Domestic water,2.5,5.40
+120000,Office Building,Lighting,2.5,4.32
+40000,Government,Fire Alarm,2.5,1.08
+25000,Government,Mech. Pipe,2.5,3.24
+245000,School,Mech. Pipe,2.5,15.13
+245000,School,Sanitary & Storm,2.5,23.77
+342000,School,Mech. Duct,2.5,32.42
+17500,School,Power,2.5,4.86
+685551,Office Building,Sanitary & Storm,2.5,17.83
+23600,School,Power,2.5,4.86
+87250,Residential,Sanitary & Storm,2.5,14.05
+17800,Government,Mech. Duct,2.5,5.40
+17800,Government,Mech. Pipe,2.5,2.97
+17800,Government,Power,2.5,3.24
+69500,School,Sanitary & Storm,2.5,8.64
+45000,College / University,Sanitary & Storm,2.5,5.67
+87075,Government,Domestic water,2.5,6.48
+25000,Government,Mech. Pipe,2.5,3.24
+25000,Government,Power,2.5,3.78
+154000,School,Sanitary & Storm,2.5,15.94
+154000,School,Domestic water,2.5,10.81
+60827,School,Mech. Duct,2.5,11.35
+154000,School,Sanitary & Storm,2.5,15.94
+154000,School,Domestic water,2.5,10.81
+28602,College / University,Mech. Pipe,2.5,3.24
+42000,Other Commercial,Mech. Duct,3,7.07
+27619,College / University,AV /Wireless,3,0.40
+114000,School,Mech. Duct,3,16.00
+77985,College / University,AV /Wireless,3,1.60
+120000,Healthcare,Power,3,9.60
+26946,School,Power,3,5.33
+145850,School,Mech. Pipe,3,10.67
+28321,Transport,Power,3,3.20
+65000,Military,Mech. Pipe,3,5.33
+76545,School,Mech. Duct,3,13.33
+76545,School,Mech. Pipe,3,6.40
+76545,School,Lighting,3,4.27
+66980,College / University,Mech. Duct,3,11.20
+178000,Healthcare,Domestic water,3,20.00
+21145,School,Mech. Pipe,3,3.20
+68500,School,AV /Wireless,3,1.60
+252000,School,Domestic water,3,17.07
+265000,Parking,Telecomm,3,2.67
+107000,School,Sanitary & Storm,3,13.07
+65711,School,Lighting,3,3.73
+53767,Office Building,Mech. Pipe,3,5.33
+53767,Office Building,Lighting,3,4.27
+17895,College / University,Sanitary & Storm,3,3.20
+76978,Warehouse / Supermarket,Power,3,4.80
+76978,Warehouse / Supermarket,Fire Alarm,3,1.07
+40500,Government,Lighting,3,2.40
+80000,School,Mech. Pipe,3,6.67
+61000,School,Sanitary & Storm,3,8.27
+18066,Parking,Fire Alarm,3,0.80
+45213,College / University,Mech. Duct,3,8.00
+45213,College / University,Domestic water,3,4.00
+179000,School,Telecomm,3,4.80
+44840,College / University,Mech. Duct,3,8.00
+36000,Hotel,Power,3,5.07
+33000,College / University,AV /Wireless,3,0.53
+129000,School,Sanitary & Storm,3,14.99
+141936,School,Lighting,3,6.40
+95000,Industrial,Mech. Duct,3,18.13
+260000,Industrial,Lighting,3,8.00
+535000,Industrial,Lighting,3,14.93
+21456,Residential,Mech. Duct,3,10.67
+25878,Government,Power,3,4.00
+36000,Residential,Lighting,3,5.07
+36000,Residential,Lighting,3,4.80
+40000,Office Building,Sanitary & Storm,3,7.47
+40000,Office Building,Power,3,6.40
+12490,Other Educational,Domestic water,3,4.80
+95800,School,Lighting,3,4.80
+81544,College / University,Sanitary & Storm,3,9.60
+73000,Government,Power,3,7.47
+99000,School,Mech. Duct,3,14.40
+99000,School,Mech. Pipe,3,7.47
+99000,School,Sanitary & Storm,3,11.73
+99000,School,Lighting,3,5.07
+68991,Other Commercial,Mech. Duct,3,8.27
+38000,Residential,Power,3,9.07
+520000,Residential,Power,3,20.27
+85400,Residential,Telecomm,3,4.80
+13000,Government,Telecomm,3,1.07
+13000,Industrial,Power,3,2.00
+88000,Government,Lighting,3,4.80
+130150,Industrial,Sanitary & Storm,3,14.93
+83774,School,Lighting,3,4.27
+215000,Government,Mech. Pipe,3,12.80
+158000,School,Sanitary & Storm,3,17.07
+35000,Industrial,Power,3,4.27
+35000,Industrial,Fire Alarm,3,1.07
+110800,School,Sanitary & Storm,3,12.80
+110800,School,Lighting,3,5.33
+39600,Warehouse / Supermarket,Mech. Duct,3,6.93
+39600,Warehouse / Supermarket,Lighting,3,1.87
+39600,Warehouse / Supermarket,Power,3,4.80
+44000,Warehouse / Supermarket,Fire Alarm,3,1.07
+56900,Hotel,Power,3,5.87
+60000,Warehouse / Supermarket,Fire Alarm,3,1.07
+35000,Government,Fire Alarm,3,1.07
+267000,School,Fire Alarm,3,4.27
+143670,Healthcare,Sanitary & Storm,3,25.60
+208833,Office Building,Power,3,8.53
+47000,Healthcare,Mech. Pipe,3,4.80
+33000,School,Mech. Pipe,3,3.73
+33000,School,Lighting,3,2.67
+842043,Warehouse / Supermarket,Mech. Duct,3,10.67
+65000,School,Mech. Duct,3,12.00
+61800,Other Commercial,Lighting,3,3.47
+45131,Healthcare,Sanitary & Storm,3,7.47
+22174,School,Mech. Pipe,3,3.20
+28700,Warehouse / Supermarket,Fire Alarm,3,1.07
+245000,School,Domestic water,3,16.00
+342000,School,Mech. Pipe,3,21.33
+342000,School,Domestic water,3,21.33
+342000,School,Lighting,3,12.80
+342000,School,Fire Alarm,3,5.33
+685551,Office Building,Domestic water,3,12.80
+685551,Office Building,Lighting,3,8.27
+685551,Office Building,Power,3,14.93
+134972,College / University,Mech. Duct,3,21.33
+134972,College / University,Fire Alarm,3,2.13
+13761,Government,AV /Wireless,3,1.07
+15000,Other Commercial,Mech. Pipe,3,4.37
+25260,Military,Power,3,5.87
+87410,School,Mech. Pipe,3,6.93
+45000,College / University,Domestic water,3,4.00
+45000,College / University,Power,3,5.87
+450000,Industrial,Mech. Pipe,3,21.33
+87075,Government,Mech. Pipe,3,6.40
+87075,Government,Power,3,8.53
+25000,Government,Sanitary & Storm,3,6.13
+25000,Government,Domestic water,3,4.27
+18300,Office Building,Mech. Duct,3,8.64
+18300,Office Building,Sanitary & Storm,3,6.67
+25700,Healthcare,Domestic water,3,3.47
+154000,School,Lighting,3,6.67
+60827,School,Domestic water,3,6.40
+154000,School,Lighting,3,6.67
+6000,Industrial,Lighting,3,1.60
+178000,School,Domestic water,3.5,13.69
+178000,School,AV /Wireless,3.5,2.37
+17500,College / University,Domestic water,3.5,2.11
+44000,School,Mech. Duct,3.5,11.06
+44000,School,Domestic water,3.5,5.79
+44000,School,Lighting,3.5,3.16
+120000,Healthcare,Lighting,3.5,4.74
+280000,Warehouse / Supermarket,Mech. Duct,3.5,8.42
+145850,School,Mech. Duct,3.5,20.01
+103783,School,Power,3.5,8.95
+138309,Healthcare,Telecomm,3.5,6.32
+65000,Military,Sanitary & Storm,3.5,8.42
+88059,School,Mech. Duct,3.5,14.22
+44500,School,Lighting,3.5,3.16
+252000,School,Sanitary & Storm,3.5,26.33
+252000,School,Lighting,3.5,10.53
+252000,School,Fire Alarm,3.5,4.21
+66792,Residential,Domestic water,3.5,10.00
+128000,School,Mech. Duct,3.5,18.43
+33111,Other Educational,Lighting,3.5,2.63
+12500,Government,Mech. Duct,3.5,5.79
+73580,School,Mech. Pipe,3.5,6.48
+57630,Warehouse / Supermarket,Mech. Duct,3.5,7.37
+57630,Warehouse / Supermarket,Mech. Pipe,3.5,5.27
+57630,Warehouse / Supermarket,Fire Alarm,3.5,1.18
+45213,College / University,Sanitary & Storm,3.5,6.58
+45213,College / University,Power,3.5,6.32
+44840,College / University,Mech. Pipe,3.5,5.00
+36000,Government,Lighting,3.5,2.37
+722000,Residential,Telecomm,3.5,5.27
+24442,Residential,Mech. Pipe,3.5,4.21
+26000,School,Mech. Duct,3.5,9.74
+26000,School,Mech. Pipe,3.5,3.69
+141936,School,Domestic water,3.5,11.58
+90000,School,Lighting,3.5,4.74
+401870,Residential,Power,3.5,17.64
+67000,School,Sanitary & Storm,3.5,9.48
+186000,Residential,Mech. Pipe,3.5,10.00
+130500,Warehouse / Supermarket,Telecomm,3.5,2.63
+36000,Residential,Mech. Duct,3.5,12.11
+86300,Hotel,Mech. Pipe,3.5,7.90
+86300,Hotel,Lighting,3.5,5.79
+115000,College / University,Fire Alarm,3.5,2.00
+150000,Healthcare,Telecomm,3.5,6.84
+110000,College / University,Lighting,3.5,3.69
+110000,College / University,Telecomm,3.5,3.42
+730000,Residential,Power,3.5,25.27
+95000,Government,Power,3.5,9.48
+47000,Other Commercial,Telecomm,3.5,3.16
+81544,College / University,Power,3.5,7.90
+54000,Industrial,Mech. Duct,3.5,15.27
+54000,Industrial,Mech. Pipe,3.5,13.16
+175000,Industrial,Mech. Pipe,3.5,15.80
+175000,Industrial,Lighting,3.5,6.32
+83300,Healthcare,Telecomm,3.5,4.21
+49237,Healthcare,Mech. Pipe,3.5,5.27
+95007,School,Domestic water,3.5,8.95
+95007,School,AV /Wireless,3.5,1.84
+85400,Residential,Sanitary & Storm,3.5,15.90
+85400,Residential,AV /Wireless,3.5,2.37
+41000,College / University,Mech. Pipe,3.5,4.74
+215000,Government,Mech. Duct,3.5,17.90
+215000,Government,Power,3.5,18.95
+158000,School,Telecomm,3.5,4.74
+78000,School,Mech. Duct,3.5,14.22
+29743,Healthcare,Lighting,3.5,3.69
+29743,Healthcare,Power,3.5,8.42
+117527,School,Lighting,3.5,6.05
+31200,Residential,Mech. Pipe,3.5,4.34
+39600,Warehouse / Supermarket,Sanitary & Storm,3.5,6.05
+23900,Healthcare,Lighting,3.5,3.69
+544672,School,Domestic water,3.5,33.70
+544672,School,Lighting,3.5,20.80
+186000,Residential,Telecomm,3.5,5.27
+283285,Residential,Fire Alarm,3.5,4.74
+81900,School,Lighting,3.5,4.48
+35000,Government,Sanitary & Storm,3.5,6.84
+267000,School,Mech. Pipe,3.5,18.69
+267000,School,Lighting,3.5,11.58
+710197,Hotel,Power,3.5,31.59
+17300,Government,Sanitary & Storm,3.5,6.45
+17300,Government,Power,3.5,3.55
+544672,School,Lighting,3.5,20.80
+41900,Warehouse / Supermarket,Mech. Duct,3.5,7.48
+124000,School,Domestic water,3.5,10.79
+20000,Residential,Sanitary & Storm,3.5,12.64
+140500,Office Building,Fire Alarm,3.5,2.11
+219939,School,Sanitary & Storm,3.5,24.22
+219939,School,Domestic water,3.5,16.32
+66500,Hotel,Mech. Duct,3.5,11.69
+66500,Hotel,Sanitary & Storm,3.5,12.90
+634000,Residential,Sanitary & Storm,3.5,38.96
+182000,College / University,Sanitary & Storm,3.5,22.11
+181000,Healthcare,Domestic water,3.5,21.59
+245000,School,Mech. Duct,3.5,27.38
+685551,Office Building,Mech. Duct,3.5,16.32
+15000,Transport,Power,3.5,2.63
+14000,Office Building,Power,3.5,6.32
+25260,Military,Sanitary & Storm,3.5,6.32
+91476,Healthcare,Power,3.5,10.27
+87410,School,Power,3.5,8.16
+69500,School,Domestic water,3.5,7.37
+136207,School,Lighting,3.5,6.58
+87075,Government,Telecomm,3.5,4.21
+25700,Healthcare,Mech. Pipe,3.5,3.16
+154000,School,Mech. Duct,3.5,19.74
+154000,School,Mech. Duct,3.5,19.74
+69650,Healthcare,Mech. Duct,3.5,14.16
+69650,Healthcare,Mech. Pipe,3.5,6.74
+69650,Healthcare,Sanitary & Storm,3.5,12.79
+121000,School,Fire Alarm,3.5,2.11
+92660,Residential,Lighting,4,6.24
+114000,School,Mech. Pipe,4,9.36
+75000,Hotel,Telecomm,4,2.86
+105000,Military,Sanitary & Storm,4,11.69
+77985,College / University,Mech. Pipe,4,8.84
+64500,Office Building,Mech. Duct,4,10.40
+120000,Healthcare,Domestic water,4,15.59
+280000,Warehouse / Supermarket,Domestic water,4,5.20
+33768,Industrial,Lighting,4,2.60
+343900,Healthcare,Sanitary & Storm,4,67.57
+66980,College / University,Sanitary & Storm,4,9.10
+88059,School,Sanitary & Storm,4,11.95
+88059,School,Lighting,4,5.20
+50621,School,Mech. Duct,4,11.95
+701572,Warehouse / Supermarket,Mech. Duct,4,10.91
+120200,Hotel,Mech. Duct,4,16.37
+265000,Parking,Lighting,4,4.68
+246096,School,Power,4,14.81
+66792,Residential,Lighting,4,6.24
+107000,School,Lighting,4,5.72
+78500,School,Domestic water,4,8.32
+78500,School,Power,4,8.32
+126673,School,Lighting,4,6.76
+40000,College / University,Power,4,6.76
+128000,School,Mech. Pipe,4,10.40
+128000,School,Power,4,10.40
+100000,School,Mech. Pipe,4,8.84
+100000,School,Power,4,9.36
+96000,Healthcare,Sanitary & Storm,4,18.14
+96000,Healthcare,Medical Gas,4,4.81
+36127,Healthcare,Power,4,9.36
+57630,Warehouse / Supermarket,Lighting,4,2.08
+81544,College / University,Sanitary & Storm,4,11.43
+81544,College / University,Fire Alarm,4,1.56
+179000,School,Mech. Duct,4,23.39
+44840,College / University,Sanitary & Storm,4,6.76
+129000,School,Mech. Duct,4,19.49
+246810,School,Telecomm,4,6.24
+722000,Residential,Power,4,26.77
+141936,School,Mech. Duct,4,19.75
+141936,School,Sanitary & Storm,4,18.19
+35000,Healthcare,Power,4,9.36
+15552,Healthcare,Mech. Pipe,4,2.60
+130500,Warehouse / Supermarket,Medical Gas,4,1.56
+36000,Residential,Mech. Pipe,4,4.94
+143516,Residential,Lighting,4,7.48
+28301,College / University,Mech. Pipe,4,3.64
+12490,Other Educational,Power,4,4.68
+110982,School,Domestic water,4,10.40
+95800,School,Mech. Duct,4,16.11
+47000,Other Commercial,Power,4,7.02
+20679,Industrial,Fire Alarm,4,1.04
+88730,School,Lighting,4,5.20
+83300,Healthcare,Medical Gas,4,4.16
+95007,School,Lighting,4,5.46
+55000,School,Mech. Duct,4,12.99
+55000,School,Lighting,4,3.90
+145000,School,Mech. Pipe,4,11.95
+145000,School,Domestic water,4,11.95
+88000,Government,Power,4,9.88
+41000,College / University,Power,4,6.76
+215000,Government,Sanitary & Storm,4,15.59
+31200,Residential,Domestic water,4,9.10
+44000,Warehouse / Supermarket,Lighting,4,2.08
+44000,Warehouse / Supermarket,Telecomm,4,2.08
+115000,School,AV /Wireless,4,2.08
+72000,Warehouse / Supermarket,Power,4,5.20
+40206,Industrial,Sanitary & Storm,4,3.64
+544672,School,Mech. Duct,4,54.57
+544672,School,Sanitary & Storm,4,59.25
+186000,Residential,Power,4,13.77
+32500,Healthcare,Mech. Duct,4,6.50
+131794,Government,Mech. Duct,4,14.03
+131794,Government,Sanitary & Storm,4,11.43
+132677,School,Telecomm,4,4.68
+131794,Government,Mech. Duct,4,14.03
+131794,Government,Sanitary & Storm,4,11.43
+131794,Government,Mech. Duct,4,14.03
+131794,Government,Sanitary & Storm,4,11.43
+131794,Government,Mech. Duct,4,14.03
+131794,Government,Sanitary & Storm,4,11.43
+16000,College / University,Telecomm,4,2.08
+35000,Government,Power,4,5.46
+64200,College / University,Domestic water,4,6.24
+159906,Other Commercial,Sanitary & Storm,4,20.79
+143670,Healthcare,Domestic water,4,17.67
+710197,Hotel,Sanitary & Storm,4,36.38
+710197,Hotel,Domestic water,4,24.95
+47000,Healthcare,Medical Gas,4,3.12
+544672,School,Mech. Duct,4,54.57
+776296,Hotel,Domestic water,4,28.07
+776296,Hotel,Lighting,4,17.67
+55206,School,Mech. Duct,4,12.99
+20000,Residential,Mech. Pipe,4,4.16
+20000,Residential,Lighting,4,5.20
+65000,School,Medical Gas,4,2.60
+140500,Office Building,Lighting,4,5.20
+219939,School,Mech. Duct,4,28.07
+143516,Residential,Lighting,4,7.07
+75550,Residential,Telecomm,4,5.20
+25000,Government,Mech. Duct,4,6.76
+25000,Government,Power,4,4.42
+82644,School,Mech. Duct,4,15.07
+82644,School,Mech. Pipe,4,7.80
+6650,Military,Domestic water,4,2.08
+45131,Healthcare,Medical Gas,4,3.12
+124000,Residential,Power,4,12.47
+146000,Healthcare,Lighting,4,5.20
+72746,School,Domestic water,4,8.06
+57802,Healthcare,Power,4,9.88
+28700,Warehouse / Supermarket,Lighting,4,2.08
+342000,School,Power,4,18.71
+134972,College / University,Domestic water,4,11.43
+15000,Other Commercial,Power,4,5.20
+23600,School,Telecomm,4,3.12
+42500,School,Mech. Duct,4,11.95
+166506,School,Lighting,4,8.32
+87410,School,Lighting,4,4.94
+65000,Healthcare,Mech. Duct,4,13.51
+40000,Office Building,Sanitary & Storm,4,8.32
+40000,Office Building,Domestic water,4,5.72
+40000,Office Building,Fire Alarm,4,2.08
+25000,Government,Mech. Duct,4,6.76
+85000,Military,Lighting,4,4.16
+31211,School,Sanitary & Storm,4,6.76
+31211,School,Sanitary & Storm,4,6.76
+69650,Healthcare,Medical Gas,4,3.90
+27619,College / University,Sanitary & Storm,4.5,4.87
+27619,College / University,Telecomm,4.5,2.57
+75000,Hotel,Mech. Duct,4.5,13.85
+75000,Hotel,Sanitary & Storm,4.5,15.91
+62000,Other Educational,Domestic water,4.5,5.39
+62000,Other Educational,Lighting,4.5,4.41
+178000,School,Sanitary & Storm,4.5,22.06
+44000,School,Mech. Pipe,4.5,5.13
+44000,School,Fire Alarm,4.5,1.03
+106974,School,Power,4.5,10.26
+145850,School,AV /Wireless,4.5,2.57
+343900,Healthcare,Medical Gas,4.5,12.83
+103783,School,Domestic water,4.5,10.26
+103783,School,Lighting,4.5,6.16
+103783,School,AV /Wireless,4.5,2.26
+138309,Healthcare,Mech. Duct,4.5,32.58
+76545,School,Fire Alarm,4.5,1.54
+66980,College / University,Mech. Pipe,4.5,7.95
+23900,Healthcare,Telecomm,4.5,2.05
+88059,School,Power,4.5,9.24
+178000,Healthcare,Sanitary & Storm,4.5,36.43
+50621,School,Mech. Pipe,4.5,5.64
+14520,College / University,Domestic water,4.5,2.05
+14520,College / University,Lighting,4.5,2.05
+120200,Hotel,Mech. Pipe,4.5,11.80
+49000,Government,Power,4.5,6.67
+66792,Residential,Mech. Duct,4.5,14.88
+107000,School,Mech. Duct,4.5,18.98
+78500,School,Lighting,4.5,5.13
+53767,Office Building,Mech. Duct,4.5,10.77
+40000,College / University,Lighting,4.5,2.57
+17895,College / University,Domestic water,4.5,2.31
+53775,Government,Lighting,4.5,3.85
+128000,School,Telecomm,4.5,5.13
+100000,School,Mech. Duct,4.5,17.44
+80000,School,Power,4.5,8.47
+9500,College / University,Sanitary & Storm,4.5,2.67
+9500,College / University,Fire Alarm,4.5,0.36
+470174,School,AV /Wireless,4.5,5.13
+57630,Warehouse / Supermarket,Domestic water,4.5,5.13
+37790,Industrial,Sanitary & Storm,4.5,3.59
+405802,Residential,AV /Wireless,4.5,4.10
+77557,School,Lighting,4.5,5.13
+44840,College / University,Domestic water,4.5,4.62
+36000,Hotel,Domestic water,4.5,10.77
+296622,Residential,Domestic water,4.5,21.24
+296622,Residential,Power,4.5,18.16
+115000,School,Power,4.5,10.01
+104000,College / University,Medical Gas,4.5,5.13
+92000,Office Building,Fire Alarm,4.5,2.31
+196000,Healthcare,Fire Alarm,4.5,3.08
+26000,School,Power,4.5,6.67
+141936,School,Mech. Pipe,4.5,11.80
+25000,College / University,Domestic water,4.5,3.08
+23427,Government,Fire Alarm,4.5,1.03
+242456,School,Domestic water,4.5,18.98
+15552,Healthcare,Telecomm,4.5,1.54
+25878,Government,Lighting,4.5,2.05
+115000,College / University,Domestic water,4.5,10.98
+95800,School,Sanitary & Storm,4.5,14.11
+95000,Government,Fire Alarm,4.5,2.57
+47000,Other Commercial,Lighting,4.5,3.85
+81544,College / University,Mech. Duct,4.5,15.65
+99000,School,Power,4.5,9.24
+99000,School,Fire Alarm,4.5,2.05
+54000,Industrial,Lighting,4.5,3.34
+64105,Residential,Mech. Duct,4.5,14.88
+64105,Residential,Domestic water,4.5,11.80
+64105,Residential,Lighting,4.5,6.16
+100000,School,Sanitary & Storm,4.5,13.85
+28500,Industrial,Lighting,4.5,2.57
+8248,Government,Lighting,4.5,1.03
+8248,Government,Telecomm,4.5,1.03
+38000,Residential,Mech. Duct,4.5,13.85
+50000,Military,Telecomm,4.5,4.10
+145000,School,Mech. Duct,4.5,21.55
+30000,Government,Lighting,4.5,2.31
+13000,Government,Power,4.5,3.59
+62252,Transport,Power,4.5,6.16
+88000,Government,Mech. Duct,4.5,12.11
+130150,Industrial,Mech. Duct,4.5,26.68
+135963,Industrial,Telecomm,4.5,5.90
+85000,School,Telecomm,4.5,4.36
+115000,School,Lighting,4.5,6.41
+23900,Healthcare,Mech. Pipe,4.5,3.59
+18700,Warehouse / Supermarket,Telecomm,4.5,2.05
+186000,Residential,Fire Alarm,4.5,3.08
+283285,Residential,Sanitary & Storm,4.5,27.19
+39971,Healthcare,Lighting,4.5,4.36
+60391,Military,Mech. Pipe,4.5,6.16
+67000,School,Domestic water,4.5,8.21
+132677,School,Lighting,4.5,7.18
+116500,School,Mech. Duct,4.5,19.50
+116500,School,Mech. Pipe,4.5,10.26
+16000,College / University,Power,4.5,6.16
+222078,Government,Mech. Pipe,4.5,16.42
+64200,College / University,Lighting,4.5,3.08
+175354,School,Mech. Duct,4.5,25.40
+175354,School,Mech. Pipe,4.5,14.37
+267000,School,Mech. Duct,4.5,33.86
+267000,School,Sanitary & Storm,4.5,31.55
+267000,School,Domestic water,4.5,21.04
+267000,School,Telecomm,4.5,7.18
+143670,Healthcare,Mech. Duct,4.5,34.89
+108200,School,Mech. Pipe,4.5,9.75
+208833,Office Building,AV /Wireless,4.5,1.54
+710197,Hotel,Mech. Duct,4.5,61.57
+33000,School,Sanitary & Storm,4.5,7.44
+115000,School,Power,4.5,10.01
+776296,Hotel,Sanitary & Storm,4.5,42.07
+225230,Other Commercial,Fire Alarm,4.5,2.57
+842043,Office Building,Domestic water,4.5,17.65
+41900,Warehouse / Supermarket,Mech. Pipe,4.5,6.00
+41900,Warehouse / Supermarket,Sanitary & Storm,4.5,6.93
+124000,School,Sanitary & Storm,4.5,16.68
+124000,School,Lighting,4.5,6.93
+124000,School,Power,4.5,10.52
+124000,School,Telecomm,4.5,5.13
+65000,School,Power,4.5,7.95
+65000,School,Telecomm,4.5,4.10
+219939,School,Lighting,4.5,10.52
+100000,School,Mech. Pipe,4.5,9.49
+48169,Healthcare,Mech. Pipe,4.5,5.64
+895000,Parking,Fire Alarm,4.5,1.54
+75550,Residential,AV /Wireless,4.5,2.57
+25000,Government,Sanitary & Storm,4.5,7.44
+200000,School,Lighting,4.5,10.26
+82644,School,Domestic water,4.5,9.24
+45131,Healthcare,Mech. Duct,4.5,10.26
+182000,College / University,Domestic water,4.5,16.42
+182000,College / University,Power,4.5,12.83
+135963,Industrial,Telecomm,4.5,5.90
+55806,Warehouse / Supermarket,Sanitary & Storm,4.5,6.67
+347122,Industrial,Power,4.5,45.41
+28700,Warehouse / Supermarket,Domestic water,4.5,5.13
+28700,Warehouse / Supermarket,Telecomm,4.5,2.05
+245000,School,Lighting,4.5,12.31
+342000,School,Telecomm,4.5,8.21
+685551,Office Building,Fire Alarm,4.5,4.10
+15000,Transport,Sanitary & Storm,4.5,3.08
+14000,Office Building,Fire Alarm,4.5,2.05
+87410,School,Sanitary & Storm,4.5,13.34
+87410,School,Domestic water,4.5,9.24
+69500,School,Mech. Duct,4.5,14.37
+40000,Office Building,Mech. Duct,4.5,10.77
+136207,School,Mech. Duct,4.5,20.52
+136207,School,Mech. Pipe,4.5,11.80
+136207,School,Power,4.5,11.03
+87075,Government,Mech. Duct,4.5,11.29
+87075,Government,Sanitary & Storm,4.5,10.26
+25000,Government,Lighting,4.5,2.05
+154000,School,Mech. Pipe,4.5,13.34
+179833,Government,Mech. Pipe,4.5,13.34
+179833,Government,Domestic water,4.5,12.31
+154000,School,Mech. Pipe,4.5,13.34
+121000,School,Domestic water,4.5,11.80
+262000,Warehouse / Supermarket,Domestic water,5,5.57
+77985,College / University,Lighting,5,3.80
+77985,College / University,Power,5,9.12
+17500,College / University,Mech. Duct,5,4.56
+17500,College / University,Mech. Pipe,5,3.04
+17500,College / University,Sanitary & Storm,5,4.05
+64500,Office Building,Sanitary & Storm,5,9.62
+120000,Healthcare,Mech. Pipe,5,13.17
+26946,School,Fire Alarm,5,0.76
+145850,School,Fire Alarm,5,3.04
+161368,Industrial,Lighting,5,7.09
+161368,Industrial,Lighting,5,7.09
+343900,Healthcare,Mech. Duct,5,87.12
+343900,Healthcare,Domestic water,5,47.61
+40000,Healthcare,Mech. Duct,5,9.12
+50621,School,Sanitary & Storm,5,9.62
+701572,Warehouse / Supermarket,Telecomm,5,8.10
+14520,College / University,Mech. Duct,5,4.05
+68500,School,Lighting,5,5.06
+68500,School,Fire Alarm,5,1.52
+95425,School,Mech. Duct,5,17.98
+95425,School,Domestic water,5,10.64
+145925,Parking,Lighting,5,5.06
+45000,College / University,Lighting,5,2.94
+66792,Residential,Sanitary & Storm,5,17.47
+78500,School,Sanitary & Storm,5,12.66
+276000,Office Building,Power,5,12.16
+33111,Other Educational,Power,5,5.32
+103500,Office Building,Domestic water,5,7.39
+12500,Government,Domestic water,5,4.56
+9500,College / University,Mech. Duct,5,3.11
+96000,Healthcare,Domestic water,5,14.38
+96000,Healthcare,Lighting,5,5.14
+61000,School,Mech. Pipe,5,7.09
+470174,School,Mech. Pipe,5,37.99
+250000,School,Sanitary & Storm,5,32.72
+81544,College / University,Mech. Pipe,5,10.13
+437395,Residential,Power,5,22.03
+437395,Residential,Telecomm,5,6.08
+74467,School,Lighting,5,5.06
+45213,College / University,AV /Wireless,5,1.01
+179000,School,Sanitary & Storm,5,24.31
+77557,School,Domestic water,5,9.62
+44840,College / University,Telecomm,5,3.04
+129000,School,Domestic water,5,12.46
+100894,Residential,Sanitary & Storm,5,20.26
+141936,School,Power,5,12.16
+10886,Other Commercial,Telecomm,5,3.04
+90000,School,Domestic water,5,10.13
+90000,School,Telecomm,5,4.56
+242456,School,Sanitary & Storm,5,31.91
+225647,School,Sanitary & Storm,5,30.14
+80000,Other Commercial,Mech. Duct,5,11.14
+35000,Healthcare,Mech. Duct,5,8.10
+23000,Other Educational,Domestic water,5,6.08
+38000,Other Commercial,Power,5,7.09
+47000,Healthcare,AV /Wireless,5,1.01
+95800,School,Domestic water,5,10.38
+95800,School,Power,5,10.13
+95800,School,Fire Alarm,5,2.03
+110000,College / University,Fire Alarm,5,2.28
+43100,Military,Power,5,8.10
+139000,School,Fire Alarm,5,2.79
+81544,College / University,Domestic water,5,8.10
+225694,Residential,Lighting,5,9.62
+92786,Residential,Telecomm,5,6.08
+400000,Hotel,Telecomm,5,8.10
+290000,Residential,Power,5,18.23
+49237,Healthcare,Power,5,11.14
+95007,School,Sanitary & Storm,5,14.18
+50000,Military,Mech. Duct,5,10.13
+55000,School,Mech. Pipe,5,6.33
+55000,School,Sanitary & Storm,5,10.38
+55000,School,Domestic water,5,7.85
+22000,School,Telecomm,5,3.55
+85400,Residential,Domestic water,5,13.37
+85400,Residential,Lighting,5,7.09
+88000,Government,Sanitary & Storm,5,11.14
+88000,Government,Domestic water,5,8.41
+52878,Healthcare,Power,5,10.64
+130150,Industrial,Medical Gas,5,6.08
+135963,Industrial,Power,5,19.75
+158000,School,Lighting,5,8.61
+85000,Other Educational,Domestic water,5,5.32
+7049,Residential,Mech. Pipe,5,4.05
+79340,Healthcare,Lighting,5,5.06
+29743,Healthcare,Medical Gas,5,3.04
+79000,Government,Telecomm,5,4.56
+130000,Warehouse / Supermarket,Medical Gas,5,1.77
+117527,School,Mech. Duct,5,19.75
+117527,School,Mech. Pipe,5,11.14
+117527,School,Power,5,11.14
+31200,Residential,Sanitary & Storm,5,16.21
+300000,Residential,Power,5,18.99
+115000,School,Mech. Duct,5,20.26
+115000,School,Power,5,11.14
+72000,Warehouse / Supermarket,Mech. Duct,5,9.37
+77905,Healthcare,Lighting,5,5.06
+186000,Office Building,Telecomm,5,5.06
+131794,Government,Domestic water,5,11.14
+39971,Healthcare,Medical Gas,5,3.29
+60391,Military,Lighting,5,3.55
+65000,Government,Power,5,9.12
+65000,Government,Fire Alarm,5,2.03
+65000,Government,AV /Wireless,5,2.03
+132677,School,AV /Wireless,5,2.53
+131794,Government,Domestic water,5,11.14
+131794,Government,Domestic water,5,11.14
+131794,Government,Domestic water,5,11.14
+16000,College / University,Fire Alarm,5,0.51
+104094,School,Power,5,10.13
+104094,School,Telecomm,5,5.06
+35000,Government,Domestic water,5,6.08
+175354,School,Domestic water,5,16.46
+108200,School,Mech. Duct,5,19.75
+108200,School,Lighting,5,6.84
+208833,Office Building,Mech. Duct,5,13.17
+17300,Government,Mech. Duct,5,7.47
+33000,School,AV /Wireless,5,1.77
+544672,School,Sanitary & Storm,5,66.86
+20000,School,Mech. Pipe,5,3.80
+776296,Hotel,Mech. Duct,5,69.90
+776296,Hotel,Power,5,40.52
+55206,School,Mech. Pipe,5,6.33
+842043,Office Building,Mech. Duct,5,20.26
+41900,Warehouse / Supermarket,Domestic water,5,5.22
+74505,Residential,Mech. Duct,5,16.71
+634000,Residential,Domestic water,5,37.48
+634000,Residential,Lighting,5,17.22
+157512,Military,Power,5,13.42
+90000,Residential,Sanitary & Storm,5,19.75
+90000,Residential,Domestic water,5,13.68
+6650,Military,Telecomm,5,2.03
+124000,Residential,Telecomm,5,6.08
+182000,College / University,Mech. Duct,5,35.46
+135963,Industrial,Power,5,19.75
+72746,School,Sanitary & Storm,5,12.16
+93744,College / University,Lighting,5,4.05
+93744,College / University,Fire Alarm,5,2.03
+28700,Warehouse / Supermarket,Power,5,6.08
+245000,School,Power,5,16.21
+134972,College / University,Mech. Pipe,5,17.22
+134972,College / University,Sanitary & Storm,5,19.25
+13761,Government,Power,5,4.05
+87250,Residential,Domestic water,5,13.17
+124000,School,Lighting,5,7.09
+124000,School,AV /Wireless,5,2.53
+166506,School,Mech. Pipe,5,15.19
+25260,Military,Mech. Pipe,5,4.15
+25260,Military,Domestic water,5,4.05
+13250,Healthcare,Mech. Pipe,5,2.63
+136207,School,Sanitary & Storm,5,18.74
+136207,School,Domestic water,5,13.17
+87075,Government,Lighting,5,6.08
+25700,Healthcare,Mech. Duct,5,5.57
+154000,School,Medical Gas,5,4.05
+179833,Government,Sanitary & Storm,5,15.19
+154000,School,Medical Gas,5,4.05
+69650,Healthcare,Lighting,5,4.86
+121000,School,Lighting,5,7.09
+8000,Other Educational,Lighting,5,2.03
+41165,Warehouse / Supermarket,Lighting,5,2.28
+26110,School,Telecomm,5.5,4.00
+178000,School,Telecomm,5.5,6.75
+44000,School,Power,5.5,8.00
+64500,Office Building,Power,5.5,9.00
+145850,School,Domestic water,5.5,14.50
+161368,Industrial,Power,5.5,25.00
+161368,Industrial,Power,5.5,25.00
+161368,Industrial,Fire Alarm,5.5,2.50
+161368,Industrial,Fire Alarm,5.5,2.50
+138309,Healthcare,Sanitary & Storm,5.5,33.25
+60800,Military,Mech. Duct,5.5,13.00
+60800,Military,Sanitary & Storm,5.5,11.00
+141360,Warehouse / Supermarket,Lighting,5.5,2.50
+76545,School,Sanitary & Storm,5.5,13.00
+76545,School,Power,5.5,10.00
+40000,Healthcare,Domestic water,5.5,7.00
+95000,Residential,Power,5.5,14.00
+701572,Warehouse / Supermarket,Power,5.5,7.00
+68500,School,Power,5.5,9.50
+107000,School,Domestic water,5.5,12.00
+126673,School,Power,5.5,12.00
+31400,Industrial,Power,5.5,5.50
+40000,College / University,Telecomm,5.5,3.00
+58170,Government,Sanitary & Storm,5.5,10.00
+58170,Government,Domestic water,5.5,7.50
+53775,Government,Mech. Pipe,5.5,6.50
+53775,Government,Fire Alarm,5.5,2.00
+100000,School,Telecomm,5.5,5.00
+103500,Office Building,Sanitary & Storm,5.5,11.35
+96000,Healthcare,Mech. Pipe,5.5,11.53
+184374,College / University,Fire Alarm,5.5,3.80
+470000,Healthcare,Mech. Pipe,5.5,50.00
+470174,School,Fire Alarm,5.5,10.00
+57630,Warehouse / Supermarket,Sanitary & Storm,5.5,8.00
+250000,School,Domestic water,5.5,23.00
+250000,School,Lighting,5.5,13.25
+179000,School,Domestic water,5.5,17.00
+77557,School,Mech. Duct,5.5,17.50
+44840,College / University,Lighting,5.5,3.00
+36000,Hotel,Lighting,5.5,6.25
+296622,Residential,Telecomm,5.5,6.70
+345000,Healthcare,Fire Alarm,5.5,5.50
+100894,Residential,Domestic water,5.5,15.00
+26000,School,Telecomm,5.5,4.00
+10886,Other Commercial,Sanitary & Storm,5.5,5.60
+90000,School,Sanitary & Storm,5.5,15.50
+364000,Transport,Sanitary & Storm,5.5,35.00
+364000,Transport,Domestic water,5.5,19.95
+364000,Transport,Power,5.5,28.80
+242456,School,Mech. Duct,5.5,35.00
+242456,School,Mech. Pipe,5.5,21.00
+67000,School,Domestic water,5.5,9.50
+35000,Healthcare,Lighting,5.5,5.00
+186000,Residential,Mech. Duct,5.5,22.50
+38000,Other Commercial,Sanitary & Storm,5.5,9.00
+38000,Other Commercial,Lighting,5.5,4.00
+28301,College / University,Mech. Duct,5.5,7.00
+115000,College / University,Sanitary & Storm,5.5,18.50
+115000,College / University,AV /Wireless,5.5,3.20
+18650,Healthcare,Mech. Duct,5.5,4.00
+43100,Military,Telecomm,5.5,4.25
+108152,School,Mech. Duct,5.5,21.00
+54000,Industrial,Telecomm,5.5,3.63
+84978,School,Telecomm,5.5,5.00
+100854,School,Mech. Duct,5.5,19.50
+151600,School,Lighting,5.5,8.75
+88730,School,Power,5.5,10.00
+64105,Residential,Sanitary & Storm,5.5,19.00
+183000,School,Lighting,5.5,10.50
+28500,Industrial,Mech. Duct,5.5,15.00
+49237,Healthcare,Mech. Duct,5.5,12.50
+49237,Healthcare,Medical Gas,5.5,4.00
+95007,School,Power,5.5,10.50
+95007,School,Telecomm,5.5,5.00
+50000,Military,Mech. Duct,5.5,11.00
+50000,Military,Mech. Pipe,5.5,6.00
+50000,Military,Lighting,5.5,3.50
+55000,School,Power,5.5,9.00
+124000,Office Building,Mech. Pipe,5.5,8.75
+124000,Office Building,Domestic water,5.5,8.40
+22000,School,Lighting,5.5,3.00
+22000,School,Power,5.5,7.38
+145000,School,Sanitary & Storm,5.5,22.00
+145000,School,Power,5.5,13.00
+85400,Residential,Power,5.5,13.00
+119336,Warehouse / Supermarket,Power,5.5,6.50
+78800,College / University,Mech. Pipe,5.5,10.50
+88000,Government,Mech. Pipe,5.5,9.00
+41000,College / University,Domestic water,5.5,5.00
+215000,Government,Telecomm,5.5,12.00
+158000,School,Domestic water,5.5,15.50
+1700000,Residential,Power,5.5,61.00
+40000,Office Building,Sanitary & Storm,5.5,10.00
+117527,School,Domestic water,5.5,13.00
+36699,School,Domestic water,5.5,7.00
+110800,School,Power,5.5,11.00
+85000,School,AV /Wireless,5.5,2.25
+44000,Warehouse / Supermarket,Power,5.5,6.50
+115000,School,Mech. Pipe,5.5,11.75
+72000,Warehouse / Supermarket,Sanitary & Storm,5.5,8.00
+21400,Industrial,Power,5.5,4.00
+544672,School,Mech. Pipe,5.5,47.00
+186000,Office Building,Fire Alarm,5.5,3.00
+283285,Residential,Lighting,5.5,11.00
+132677,School,Power,5.5,12.25
+16000,College / University,Mech. Pipe,5.5,3.00
+16000,College / University,Domestic water,5.5,2.50
+81900,School,Mech. Pipe,5.5,8.88
+222078,Government,Mech. Duct,5.5,23.50
+175354,School,Sanitary & Storm,5.5,25.00
+175354,School,Lighting,5.5,10.00
+267000,School,AV /Wireless,5.5,4.00
+100000,School,Sanitary & Storm,5.5,16.13
+108200,School,Fire Alarm,5.5,2.50
+208833,Office Building,Sanitary & Storm,5.5,14.00
+337670,Residential,Domestic water,5.5,26.00
+710197,Hotel,Lighting,5.5,20.00
+544672,School,Mech. Pipe,5.5,47.00
+1729864,Hotel,Mech. Duct,5.5,156.00
+1729864,Hotel,Lighting,5.5,40.00
+1729864,Hotel,Power,5.5,91.00
+225230,Parking,Fire Alarm,5.5,1.25
+842043,Office Building,Sanitary & Storm,5.5,29.00
+41900,Warehouse / Supermarket,Power,5.5,6.25
+41900,Warehouse / Supermarket,Telecomm,5.5,2.60
+61800,Other Commercial,Sanitary & Storm,5.5,12.00
+219939,School,Power,5.5,16.25
+16700,Warehouse / Supermarket,Sanitary & Storm,5.5,7.50
+16700,Warehouse / Supermarket,Domestic water,5.5,5.50
+109500,Government,Sanitary & Storm,5.5,13.00
+65000,Healthcare,Mech. Pipe,5.5,8.25
+634000,Residential,Power,5.5,30.00
+40000,Government,Sanitary & Storm,5.5,9.25
+157512,Military,Mech. Duct,5.5,32.25
+157512,Military,Sanitary & Storm,5.5,17.50
+75550,Residential,Sanitary & Storm,5.5,20.00
+25000,Government,Lighting,5.5,2.25
+200000,School,Sanitary & Storm,5.5,28.50
+200000,School,Power,5.5,16.00
+45131,Healthcare,Mech. Pipe,5.5,6.00
+33152,Government,Sanitary & Storm,5.5,9.00
+33152,Government,Domestic water,5.5,6.00
+55806,Warehouse / Supermarket,Power,5.5,6.25
+55806,Warehouse / Supermarket,Fire Alarm,5.5,1.50
+470000,Healthcare,Mech. Pipe,5.5,50.00
+57802,Healthcare,Lighting,5.5,5.00
+93744,College / University,Telecomm,5.5,4.00
+93744,College / University,Power,5.5,10.00
+93744,College / University,Telecomm,5.5,4.00
+100000,Transport,Domestic water,5.5,7.50
+124000,School,Domestic water,5.5,13.00
+124000,School,Power,5.5,12.00
+166506,School,Sanitary & Storm,5.5,23.50
+166506,School,Domestic water,5.5,16.75
+166506,School,Power,5.5,14.25
+91476,Healthcare,Lighting,5.5,5.75
+52143,Residential,Lighting,5.5,7.00
+45000,College / University,Lighting,5.5,3.00
+40000,Office Building,Mech. Pipe,5.5,7.00
+104168,School,Mech. Duct,5.5,20.75
+104168,School,Mech. Pipe,5.5,10.50
+25700,Healthcare,Sanitary & Storm,5.5,5.50
+85000,Military,Mech. Duct,5.5,18.00
+154000,School,Telecomm,5.5,6.00
+154000,School,Telecomm,5.5,6.00
+121000,School,Mech. Pipe,5.5,12.00
+75000,Hotel,Domestic water,6,13.82
+233000,Healthcare,Telecomm,6,14.31
+71624,Warehouse / Supermarket,Lighting,6,2.71
+178000,School,Lighting,6,10.86
+343900,Healthcare,Mech. Pipe,6,37.02
+138309,Healthcare,Domestic water,6,21.72
+60800,Military,Mech. Pipe,6,7.40
+60800,Military,Domestic water,6,8.39
+72000,Other Commercial,Lighting,6,5.43
+160000,Government,Telecomm,6,9.38
+50621,School,Domestic water,6,8.39
+701572,Warehouse / Supermarket,Lighting,6,2.96
+701572,Warehouse / Supermarket,Fire Alarm,6,1.97
+14520,College / University,Sanitary & Storm,6,3.95
+68500,School,Mech. Duct,6,17.77
+95425,School,Lighting,6,6.91
+252000,School,Mech. Pipe,6,23.20
+46000,Government,Mech. Duct,6,10.37
+66792,Residential,Mech. Pipe,6,7.40
+107000,School,Mech. Pipe,6,11.85
+107000,School,Power,6,11.85
+31400,Industrial,Lighting,6,3.21
+53775,Government,Domestic water,6,7.65
+128000,School,Sanitary & Storm,6,21.22
+43000,Hotel,Power,6,7.90
+80000,School,AV /Wireless,6,2.37
+470000,Healthcare,Mech. Duct,6,137.22
+470000,Healthcare,Domestic water,6,74.04
+470174,School,Sanitary & Storm,6,64.66
+66000,Industrial,Domestic water,6,8.88
+66000,Industrial,Medical Gas,6,7.90
+880000,Residential,Mech. Duct,6,64.81
+880000,Residential,Mech. Pipe,6,47.09
+81544,College / University,Mech. Duct,6,19.25
+36000,Hotel,Mech. Duct,6,13.33
+296622,Residential,Mech. Pipe,6,18.76
+296622,Residential,Sanitary & Storm,6,33.46
+296622,Residential,Fire Alarm,6,6.91
+222000,Residential,Mech. Duct,6,26.16
+65000,College / University,Sanitary & Storm,6,11.85
+104000,College / University,Mech. Duct,6,24.19
+104000,College / University,AV /Wireless,6,2.96
+196000,Healthcare,Telecomm,6,11.85
+90000,School,AV /Wireless,6,2.47
+80478,Hotel,Lighting,6,7.40
+62000,Government,Lighting,6,4.94
+242456,School,Lighting,6,13.82
+242456,School,Telecomm,6,7.90
+225647,School,Power,6,17.77
+225647,School,Telecomm,6,7.90
+35000,Healthcare,Mech. Pipe,6,5.43
+23000,Other Educational,Sanitary & Storm,6,9.87
+38000,Other Commercial,Domestic water,6,6.42
+199000,Government,Fire Alarm,6,5.92
+18650,Healthcare,Domestic water,6,3.95
+43100,Military,Sanitary & Storm,6,9.87
+95000,Government,Mech. Pipe,6,10.37
+95000,Government,Domestic water,6,9.87
+95000,Government,Telecomm,6,5.92
+108152,School,Lighting,6,7.65
+81544,College / University,Mech. Pipe,6,12.09
+54000,Industrial,Power,6,9.13
+213321,Residential,Mech. Pipe,6,14.56
+64105,Residential,Power,6,13.33
+100000,School,Power,6,11.85
+100000,School,Fire Alarm,6,2.47
+22100,Hotel,Mech. Duct,6,11.85
+83300,Healthcare,Mech. Duct,6,23.20
+83300,Healthcare,Sanitary & Storm,6,20.48
+83300,Healthcare,Domestic water,6,14.07
+52186,Office Building,AV /Wireless,6,1.97
+49237,Healthcare,Domestic water,6,8.39
+95007,School,Mech. Duct,6,20.73
+50000,Military,Mech. Pipe,6,6.42
+55000,School,Telecomm,6,4.69
+119336,Warehouse / Supermarket,Sanitary & Storm,6,8.64
+46000,Government,Mech. Duct,6,10.86
+46000,Government,Mech. Pipe,6,6.42
+46000,Government,Lighting,6,3.95
+46000,Government,Power,6,7.90
+41000,College / University,Mech. Duct,6,10.37
+26661,Warehouse / Supermarket,Lighting,6,2.59
+215000,Government,Domestic water,6,16.78
+78000,School,Sanitary & Storm,6,14.61
+78000,School,Domestic water,6,10.37
+29743,Healthcare,Mech. Pipe,6,4.94
+40000,Office Building,Domestic water,6,7.28
+79000,Government,Lighting,6,6.42
+130000,Warehouse / Supermarket,Domestic water,6,6.17
+117527,School,Sanitary & Storm,6,18.76
+180000,Government,AV /Wireless,6,3.70
+300000,Residential,Lighting,6,12.09
+72000,Warehouse / Supermarket,Lighting,6,2.71
+500000,Healthcare,Telecomm,6,29.62
+186000,Office Building,AV /Wireless,6,1.88
+131794,Government,Telecomm,6,7.90
+39971,Healthcare,Sanitary & Storm,6,9.38
+60391,Military,Domestic water,6,8.39
+132677,School,Sanitary & Storm,6,21.47
+132677,School,Domestic water,6,14.56
+131794,Government,Telecomm,6,7.90
+131794,Government,Telecomm,6,7.90
+131794,Government,Telecomm,6,7.90
+222078,Government,Domestic water,6,17.67
+222078,Government,Lighting,6,15.99
+175354,School,Power,6,15.79
+175354,School,Fire Alarm,6,3.95
+175354,School,Telecomm,6,6.91
+267000,School,Power,6,19.25
+143670,Healthcare,Medical Gas,6,7.90
+108200,School,Power,6,12.34
+337670,Residential,Sanitary & Storm,6,35.54
+75000,School,Mech. Pipe,6,9.13
+47000,Healthcare,Mech. Duct,6,12.83
+47000,Healthcare,Domestic water,6,8.39
+544672,School,Domestic water,6,44.42
+1729864,Hotel,Sanitary & Storm,6,91.81
+1729864,Hotel,Domestic water,6,61.20
+225230,Other Commercial,Sanitary & Storm,6,34.75
+225230,Parking,Telecomm,6,3.95
+225230,Other Commercial,Telecomm,6,7.90
+20000,Residential,Power,6,11.85
+65000,School,Mech. Pipe,6,8.14
+61800,Other Commercial,Power,6,9.62
+219939,School,Fire Alarm,6,4.94
+16700,Warehouse / Supermarket,Mech. Duct,6,9.87
+74505,Residential,Sanitary & Storm,6,20.73
+74505,Residential,Domestic water,6,14.31
+40000,Government,Domestic water,6,6.91
+40000,Government,Power,6,7.40
+40000,Government,Telecomm,6,2.96
+20000,Government,Mech. Duct,6,8.39
+20000,Government,Mech. Pipe,6,4.44
+75550,Residential,Domestic water,6,14.56
+75550,Residential,Power,6,13.33
+200000,School,Mech. Pipe,6,19.74
+200000,School,Domestic water,6,19.25
+6650,Military,Lighting,6,1.48
+33152,Government,Mech. Duct,6,9.87
+33152,Government,Mech. Pipe,6,5.43
+181000,Healthcare,Mech. Pipe,6,20.24
+347122,Industrial,Telecomm,6,15.55
+470000,Healthcare,Mech. Duct,6,137.22
+470000,Healthcare,Domestic water,6,74.04
+93744,College / University,Lighting,6,4.44
+93744,College / University,Power,6,11.35
+94892,School,Mech. Pipe,6,10.37
+245000,School,Telecomm,6,7.90
+342000,School,AV /Wireless,6,4.94
+17800,Government,Lighting,6,1.97
+124000,School,Mech. Duct,6,23.20
+124000,School,Fire Alarm,6,2.96
+166506,School,Mech. Duct,6,27.64
+25260,Military,Mech. Duct,6,5.92
+25260,Military,Lighting,6,2.47
+87410,School,AV /Wireless,6,2.47
+69500,School,Power,6,9.87
+40000,Office Building,AV /Wireless,6,1.97
+154000,School,Power,6,14.31
+154000,School,Power,6,14.31
+70000,School,Power,6,10.24
+77985,College / University,Telecomm,6.5,4.14
+44000,School,Sanitary & Storm,6.5,10.72
+120000,Healthcare,Fire Alarm,6.5,2.92
+120000,Healthcare,Telecomm,6.5,8.28
+25000,College / University,Mech. Duct,6.5,7.31
+25000,College / University,Domestic water,6.5,3.90
+28321,Transport,Domestic water,6.5,4.39
+184532,Military,Mech. Duct,6.5,42.49
+343900,Healthcare,AV /Wireless,6.5,13.16
+40000,Healthcare,Sanitary & Storm,6.5,9.74
+1344292,Residential,Telecomm,6.5,7.80
+72000,Other Commercial,Mech. Pipe,6.5,8.04
+95000,Residential,Lighting,6.5,8.77
+160000,Government,Fire Alarm,6.5,5.36
+178000,Healthcare,Mech. Pipe,6.5,21.93
+73370,College / University,Mech. Duct,6.5,18.81
+701572,Warehouse / Supermarket,Domestic water,6.5,7.80
+68500,School,Mech. Pipe,6.5,8.79
+68500,School,Sanitary & Storm,6.5,14.13
+68500,School,Domestic water,6.5,10.23
+265000,Parking,Fire Alarm,6.5,1.46
+46000,Government,Mech. Pipe,6.5,6.82
+107000,School,Telecomm,6.5,5.85
+43000,Hotel,Mech. Duct,6.5,14.62
+103500,Office Building,Power,6.5,10.67
+80000,School,Sanitary & Storm,6.5,15.35
+470000,Healthcare,Sanitary & Storm,6.5,123.76
+470174,School,Domestic water,6.5,42.20
+144303,School,Sanitary & Storm,6.5,24.12
+36127,Healthcare,Sanitary & Storm,6.5,9.01
+36127,Healthcare,Domestic water,6.5,6.82
+81544,College / University,Domestic water,6.5,9.74
+74467,School,Fire Alarm,6.5,1.95
+405802,Residential,Power,6.5,25.34
+67000,Healthcare,AV /Wireless,6.5,1.95
+296622,Residential,Mech. Duct,6.5,31.53
+296622,Residential,Lighting,6.5,13.16
+246810,School,Sanitary & Storm,6.5,39.47
+65000,College / University,Mech. Pipe,6.5,10.48
+104000,College / University,Domestic water,6.5,12.67
+74964,School,Domestic water,6.5,10.72
+63800,Healthcare,Power,6.5,13.16
+26000,School,Sanitary & Storm,6.5,8.28
+225647,School,Lighting,6.5,13.64
+80000,Other Commercial,Mech. Pipe,6.5,8.28
+45000,Other Commercial,Lighting,6.5,4.87
+186000,Residential,Domestic water,6.5,21.44
+186000,Residential,Lighting,6.5,10.72
+186000,Residential,Power,6.5,18.03
+38000,Other Commercial,Mech. Duct,6.5,10.72
+28301,College / University,Domestic water,6.5,4.09
+155150,Residential,Lighting,6.5,9.99
+115000,College / University,Mech. Duct,6.5,29.23
+115000,College / University,Power,6.5,12.38
+199000,Government,Lighting,6.5,15.59
+81544,College / University,Lighting,6.5,4.39
+99000,School,Medical Gas,6.5,3.90
+54000,Industrial,Sanitary & Storm,6.5,7.80
+54000,Industrial,Fire Alarm,6.5,1.71
+213321,Residential,Domestic water,6.5,22.66
+213321,Residential,Lighting,6.5,11.69
+100000,School,Domestic water,6.5,12.77
+100000,School,Lighting,6.5,7.31
+68991,Other Commercial,Mech. Pipe,6.5,8.04
+284000,Office Building,Lighting,6.5,8.77
+80950,Warehouse / Supermarket,Lighting,6.5,2.92
+83300,Healthcare,Mech. Pipe,6.5,11.21
+95007,School,Fire Alarm,6.5,2.44
+50000,Military,Lighting,6.5,3.90
+50000,Military,Power,6.5,10.23
+124000,Office Building,Mech. Duct,6.5,15.10
+30000,Government,Fire Alarm,6.5,1.46
+13000,Government,Lighting,6.5,1.71
+46000,Government,Sanitary & Storm,6.5,10.72
+46000,Government,Domestic water,6.5,7.80
+135963,Industrial,Mech. Duct,6.5,36.06
+135963,Industrial,Mech. Pipe,6.5,21.68
+135963,Industrial,Domestic water,6.5,17.78
+110000,School,Mech. Duct,6.5,23.88
+110000,School,Sanitary & Storm,6.5,19.98
+495782,Office Building,Sanitary & Storm,6.5,23.14
+158000,School,Fire Alarm,6.5,3.90
+78000,School,Power,6.5,11.21
+85000,Other Educational,Sanitary & Storm,6.5,9.26
+29743,Healthcare,Mech. Duct,6.5,7.80
+445000,Residential,Lighting,6.5,15.88
+130000,Warehouse / Supermarket,Lighting,6.5,2.92
+110800,School,Mech. Duct,6.5,23.39
+85000,School,Mech. Pipe,6.5,10.23
+72000,Warehouse / Supermarket,Domestic water,6.5,6.33
+23900,Healthcare,Domestic water,6.5,4.87
+23900,Healthcare,Telecomm,6.5,2.44
+186000,Office Building,Power,6.5,12.91
+536118,Office Building,Sanitary & Storm,6.5,23.88
+132677,School,Mech. Pipe,6.5,14.86
+308000,School,Mech. Pipe,6.5,29.97
+116500,School,Power,6.5,12.67
+16000,College / University,AV /Wireless,6.5,0.19
+64200,College / University,Mech. Duct,6.5,15.84
+64200,College / University,Sanitary & Storm,6.5,12.18
+143670,Healthcare,Mech. Pipe,6.5,17.54
+108200,School,Sanitary & Storm,6.5,19.25
+108200,School,Domestic water,6.5,13.40
+108200,School,Telecomm,6.5,5.85
+75900,Industrial,Lighting,6.5,4.87
+225230,Other Commercial,Domestic water,6.5,20.07
+225230,Parking,Lighting,6.5,6.33
+225230,Parking,Power,6.5,12.18
+842043,Warehouse / Supermarket,Sanitary & Storm,6.5,14.13
+842043,Warehouse / Supermarket,Domestic water,6.5,8.38
+219939,School,AV /Wireless,6.5,3.90
+65000,Healthcare,Mech. Duct,6.5,18.52
+40000,Government,Mech. Pipe,6.5,6.33
+157512,Military,Lighting,6.5,9.50
+75550,Residential,Mech. Duct,6.5,19.49
+75550,Residential,Lighting,6.5,8.28
+200000,School,Mech. Duct,6.5,33.13
+82644,School,Sanitary & Storm,6.5,16.20
+33152,Government,Power,6.5,6.82
+124000,Residential,Lighting,6.5,9.74
+45000,Other Commercial,Lighting,6.5,4.87
+201272,Residential,Power,6.5,18.76
+135963,Industrial,Mech. Duct,6.5,36.06
+135963,Industrial,Mech. Pipe,6.5,21.68
+135963,Industrial,Domestic water,6.5,17.78
+181000,Healthcare,Medical Gas,6.5,9.74
+470000,Healthcare,Sanitary & Storm,6.5,123.76
+93744,College / University,Fire Alarm,6.5,2.44
+94892,School,Lighting,6.5,7.07
+94892,School,Power,6.5,11.69
+15000,Other Commercial,Sanitary & Storm,6.5,6.82
+15000,Other Commercial,Telecomm,6.5,3.90
+23600,School,Lighting,6.5,3.41
+87250,Residential,Lighting,6.5,8.77
+17800,Government,AV /Wireless,6.5,1.71
+124000,School,Mech. Pipe,6.5,13.64
+124000,School,Sanitary & Storm,6.5,21.20
+91476,Healthcare,Mech. Duct,6.5,27.53
+91476,Healthcare,AV /Wireless,6.5,2.92
+52143,Residential,Power,6.5,14.13
+69500,School,Mech. Pipe,6.5,8.77
+85000,Military,Sanitary & Storm,6.5,13.64
+48900,College / University,Domestic water,6.5,6.33
+121000,School,Sanitary & Storm,6.5,21.44
+26110,School,Fire Alarm,7,0.96
+233000,Healthcare,Lighting,7,8.66
+178000,School,Power,7,17.80
+105000,Military,Power,7,13.47
+25000,College / University,Sanitary & Storm,7,6.25
+106974,School,Lighting,7,8.66
+145850,School,Power,7,15.39
+184532,Military,Lighting,7,11.93
+343900,Healthcare,Telecomm,7,23.09
+138309,Healthcare,Medical Gas,7,8.42
+23900,Healthcare,Mech. Pipe,7,4.81
+23900,Healthcare,Domestic water,7,5.29
+1330356,Warehouse / Supermarket,Mech. Duct,7,20.44
+95425,School,Sanitary & Storm,7,19.34
+276000,Office Building,Telecomm,7,6.73
+43000,Hotel,Sanitary & Storm,7,19.24
+43000,Hotel,Lighting,7,7.70
+450000,School,Lighting,7,27.90
+80000,School,Domestic water,7,12.27
+122000,Other Commercial,Lighting,7,8.42
+73580,School,Sanitary & Storm,7,15.87
+470174,School,Mech. Duct,7,69.26
+470174,School,Lighting,7,28.86
+144303,School,Power,7,15.15
+36127,Healthcare,Mech. Pipe,7,6.01
+250000,School,Power,7,21.16
+74467,School,Mech. Duct,7,20.20
+36000,Hotel,Mech. Pipe,7,6.73
+26554,School,Fire Alarm,7,0.96
+23500,Government,Mech. Duct,7,10.10
+222000,Residential,Power,7,20.44
+246810,School,Mech. Duct,7,43.29
+65000,College / University,Domestic water,7,8.42
+92000,Office Building,AV /Wireless,7,2.16
+74964,School,Mech. Duct,7,20.68
+74964,School,Lighting,7,6.73
+74964,School,Telecomm,7,5.77
+63800,Healthcare,Lighting,7,6.25
+26000,School,Domestic water,7,7.21
+26000,School,Fire Alarm,7,0.96
+90000,School,Mech. Duct,7,23.09
+90000,School,Fire Alarm,7,2.40
+23427,Government,Power,7,6.01
+225647,School,Mech. Pipe,7,24.05
+130000,Hotel,Power,7,13.47
+535000,Industrial,Power,7,98.12
+186000,Residential,Sanitary & Storm,7,31.75
+251000,Office Building,Fire Alarm,7,3.85
+155150,Residential,Power,7,18.28
+115000,College / University,Mech. Pipe,7,18.76
+43100,Military,Domestic water,7,7.21
+95000,Government,Mech. Duct,7,16.35
+139000,School,Mech. Duct,7,29.34
+139000,School,Domestic water,7,17.56
+73000,Government,Mech. Duct,7,14.91
+225694,Residential,Power,7,20.68
+20679,Industrial,Lighting,7,3.13
+151600,School,Power,7,16.35
+88730,School,Telecomm,7,5.77
+213321,Residential,Sanitary & Storm,7,33.67
+8248,Government,Power,7,4.33
+83300,Healthcare,Lighting,7,6.73
+83300,Healthcare,Power,7,15.15
+49237,Healthcare,Sanitary & Storm,7,12.99
+49237,Healthcare,Lighting,7,6.25
+50000,Military,Power,7,10.58
+50000,Military,Sanitary & Storm,7,12.02
+85400,Residential,Mech. Duct,7,21.89
+269961,Residential,Domestic water,7,26.94
+269961,Residential,Lighting,7,13.47
+269961,Residential,Power,7,22.13
+135963,Industrial,Sanitary & Storm,7,25.73
+110000,School,Domestic water,7,14.72
+110000,School,Power,7,13.95
+26661,Warehouse / Supermarket,Power,7,7.46
+83774,School,Power,7,12.02
+49000,Warehouse / Supermarket,Sanitary & Storm,7,9.50
+132000,School,Fire Alarm,7,3.37
+132000,School,Telecomm,7,6.73
+1100000,Residential,Lighting,7,31.26
+445000,Residential,Power,7,29.82
+130000,Warehouse / Supermarket,Mech. Pipe,7,8.42
+130000,Warehouse / Supermarket,Sanitary & Storm,7,9.86
+130000,Warehouse / Supermarket,Power,7,7.94
+36699,School,Mech. Duct,7,15.87
+85000,School,Mech. Duct,7,21.64
+85000,School,Domestic water,7,12.75
+536118,Office Building,Domestic water,7,18.04
+131794,Government,Mech. Pipe,7,14.43
+60391,Military,Mech. Duct,7,15.87
+26096,School,Mech. Duct,7,14.91
+132677,School,Mech. Duct,7,27.90
+132677,School,Fire Alarm,7,3.61
+131794,Government,Mech. Pipe,7,14.43
+131794,Government,Mech. Pipe,7,14.43
+131794,Government,Mech. Pipe,7,14.43
+39300,College / University,Lighting,7,3.37
+116500,School,Sanitary & Storm,7,21.16
+16000,College / University,Mech. Duct,7,5.29
+16000,College / University,Sanitary & Storm,7,4.81
+222078,Government,Sanitary & Storm,7,22.41
+64200,College / University,Power,7,10.39
+17300,Government,Domestic water,7,6.49
+32000,Government,Sanitary & Storm,7,10.58
+20000,School,Mech. Duct,7,13.95
+225230,Other Commercial,Lighting,7,12.51
+225230,Other Commercial,Power,7,24.05
+842043,Office Building,Mech. Pipe,7,27.51
+140500,Office Building,Power,7,12.51
+16700,Warehouse / Supermarket,Lighting,7,2.89
+109500,Government,Domestic water,7,12.51
+40000,Government,Mech. Duct,7,11.06
+40000,Government,Lighting,7,3.85
+201272,Residential,Domestic water,7,23.33
+135963,Industrial,Sanitary & Storm,7,25.73
+57802,Healthcare,Domestic water,7,11.06
+94892,School,Domestic water,7,13.71
+50000,Transport,Sanitary & Storm,7,7.94
+15000,Other Commercial,Domestic water,7,5.77
+15000,Other Commercial,Lighting,7,3.85
+42500,School,Mech. Pipe,7,7.21
+91476,Healthcare,Mech. Pipe,7,13.23
+91476,Healthcare,Sanitary & Storm,7,26.21
+91476,Healthcare,Domestic water,7,17.56
+52143,Residential,Domestic water,7,14.91
+87410,School,Fire Alarm,7,2.40
+25000,Government,Telecomm,7,2.40
+85000,Military,Domestic water,7,12.51
+70000,School,Lighting,7,6.25
+114390,Warehouse / Supermarket,Mech. Duct,7.5,12.35
+33768,Industrial,Mech. Pipe,7.5,20.89
+184532,Military,Mech. Pipe,7.5,20.13
+184532,Military,Domestic water,7.5,26.97
+161368,Industrial,Medical Gas,7.5,7.60
+161368,Industrial,Medical Gas,7.5,7.60
+138309,Healthcare,Lighting,7.5,7.48
+16800,Healthcare,Mech. Duct,7.5,4.27
+40000,Healthcare,Telecomm,7.5,3.80
+72000,Other Commercial,Power,7.5,12.82
+178000,Healthcare,Medical Gas,7.5,10.68
+252000,School,Mech. Duct,7.5,44.63
+252000,School,AV /Wireless,7.5,4.75
+126673,School,Telecomm,7.5,7.12
+106000,College / University,Mech. Duct,7.5,28.96
+106000,College / University,Mech. Pipe,7.5,18.28
+106000,College / University,Lighting,7.5,5.70
+53775,Government,Mech. Duct,7.5,13.77
+53775,Government,Sanitary & Storm,7.5,12.58
+80000,School,Fire Alarm,7.5,2.37
+96000,Healthcare,Mech. Duct,7.5,31.22
+73580,School,Mech. Duct,7.5,22.08
+470174,School,Power,7.5,36.09
+179000,School,Medical Gas,7.5,5.70
+405802,Residential,Lighting,7.5,18.04
+77557,School,Mech. Pipe,7.5,10.92
+246810,School,Mech. Pipe,7.5,27.06
+65000,College / University,Mech. Duct,7.5,18.52
+345000,Healthcare,Power,7.5,23.50
+370000,Hotel,Domestic water,7.5,26.59
+104000,College / University,Sanitary & Storm,7.5,20.42
+104000,College / University,Lighting,7.5,5.70
+10886,Other Commercial,Domestic water,7.5,5.94
+25000,College / University,Fire Alarm,7.5,0.95
+90000,School,Mech. Pipe,7.5,12.11
+90000,School,Power,7.5,13.30
+23427,Government,Lighting,7.5,2.85
+35000,Healthcare,Domestic water,7.5,7.60
+130000,Hotel,Lighting,7.5,10.45
+38000,Other Commercial,Mech. Pipe,7.5,8.55
+28301,College / University,Sanitary & Storm,7.5,7.12
+47000,Healthcare,Medical Gas,7.5,4.75
+199000,Government,Telecomm,7.5,14.24
+14470,Healthcare,Mech. Pipe,7.5,3.80
+110000,College / University,Power,7.5,13.77
+18650,Healthcare,Sanitary & Storm,7.5,4.75
+95000,Government,Sanitary & Storm,7.5,15.19
+108152,School,Power,7.5,14.72
+139000,School,Power,7.5,16.62
+50000,Warehouse / Supermarket,Mech. Pipe,7.5,8.55
+20679,Industrial,Domestic water,7.5,4.75
+20679,Industrial,Telecomm,7.5,2.85
+213321,Residential,Power,7.5,21.37
+80950,Warehouse / Supermarket,Fire Alarm,7.5,1.90
+95007,School,Mech. Pipe,7.5,12.82
+50000,Military,Domestic water,7.5,8.55
+50000,Military,Telecomm,7.5,5.70
+520000,Residential,Lighting,7.5,19.94
+119336,Warehouse / Supermarket,Mech. Duct,7.5,12.58
+119336,Warehouse / Supermarket,Mech. Pipe,7.5,8.55
+119336,Warehouse / Supermarket,Domestic water,7.5,7.36
+269961,Residential,Sanitary & Storm,7.5,37.99
+130150,Industrial,Domestic water,7.5,18.99
+135963,Industrial,Lighting,7.5,8.07
+110000,School,Lighting,7.5,9.02
+158000,School,Mech. Duct,7.5,32.76
+78000,School,Lighting,7.5,7.12
+78000,School,Telecomm,7.5,6.17
+29743,Healthcare,Sanitary & Storm,7.5,8.07
+29743,Healthcare,Domestic water,7.5,6.65
+1700000,Residential,Lighting,7.5,47.96
+130000,Warehouse / Supermarket,Mech. Duct,7.5,12.58
+36699,School,Mech. Duct,7.5,17.09
+31200,Residential,Mech. Duct,7.5,19.47
+85000,School,Lighting,7.5,7.83
+85000,School,Power,7.5,12.82
+186000,Residential,Lighting,7.5,12.44
+308000,School,Mech. Duct,7.5,52.71
+116500,School,Lighting,7.5,9.50
+208833,Office Building,Telecomm,7.5,6.65
+47000,Healthcare,Sanitary & Storm,7.5,13.77
+41900,Warehouse / Supermarket,Lighting,7.5,3.09
+20000,Residential,AV /Wireless,7.5,3.32
+61800,Other Commercial,Mech. Duct,7.5,13.77
+16700,Warehouse / Supermarket,Fire Alarm,7.5,1.90
+157512,Military,Mech. Pipe,7.5,17.57
+157512,Military,Domestic water,7.5,22.32
+157512,Military,Telecomm,7.5,12.82
+201272,Residential,Sanitary & Storm,7.5,35.14
+201272,Residential,Lighting,7.5,12.82
+135963,Industrial,Lighting,7.5,8.07
+55806,Warehouse / Supermarket,Domestic water,7.5,7.12
+57802,Healthcare,Sanitary & Storm,7.5,16.62
+94892,School,Sanitary & Storm,7.5,19.71
+79700,Industrial,Mech. Duct,7.5,29.91
+79700,Industrial,Mech. Pipe,7.5,23.03
+13761,Government,Lighting,7.5,1.90
+23600,School,Fire Alarm,7.5,0.95
+69500,School,Lighting,7.5,6.65
+85000,Military,Mech. Pipe,7.5,10.45
+60827,School,Mech. Pipe,7.5,9.50
+121000,School,Mech. Duct,7.5,28.01
+33768,Industrial,Sanitary & Storm,8,4.22
+28321,Transport,Sanitary & Storm,8,6.09
+184532,Military,Sanitary & Storm,8,26.81
+184532,Military,Power,8,19.69
+161368,Industrial,Telecomm,8,10.31
+161368,Industrial,Telecomm,8,10.31
+138309,Healthcare,Mech. Pipe,8,21.33
+160000,Government,AV /Wireless,8,4.69
+73370,College / University,Mech. Pipe,8,13.59
+14520,College / University,Mech. Pipe,8,3.75
+95425,School,Mech. Pipe,8,13.83
+145925,Parking,Power,8,14.06
+107000,School,Fire Alarm,8,3.28
+106000,College / University,Sanitary & Storm,8,22.50
+53775,Government,Power,8,11.48
+103500,Office Building,Mech. Duct,8,17.11
+9500,College / University,Mech. Pipe,8,2.81
+9500,College / University,Domestic water,8,2.58
+73580,School,Domestic water,8,12.66
+73580,School,Telecomm,8,6.56
+61000,School,Power,8,12.42
+144303,School,Telecomm,8,8.27
+36127,Healthcare,Mech. Duct,8,12.19
+74467,School,Power,8,13.12
+179000,School,Lighting,8,14.06
+77557,School,Sanitary & Storm,8,17.81
+77557,School,Power,8,13.12
+77557,School,Telecomm,8,6.56
+60252,Office Building,Fire Alarm,8,3.28
+23500,Government,Domestic water,8,7.50
+246810,School,Fire Alarm,8,7.03
+370000,Hotel,Sanitary & Storm,8,39.37
+104000,College / University,Telecomm,8,5.62
+23427,Government,AV /Wireless,8,2.11
+242456,School,Power,8,22.97
+225647,School,Mech. Duct,8,45.23
+35000,Healthcare,Sanitary & Storm,8,10.31
+35000,Healthcare,Fire Alarm,8,1.87
+60183,College / University,Lighting,8,4.69
+45000,Other Commercial,Telecomm,8,5.16
+25878,Government,Telecomm,8,2.81
+130500,Warehouse / Supermarket,Sanitary & Storm,8,10.78
+130500,Warehouse / Supermarket,Power,8,8.44
+36000,Residential,Mech. Duct,8,20.16
+251000,Office Building,Telecomm,8,7.41
+150000,Healthcare,Lighting,8,8.44
+376197,Industrial,Sanitary & Storm,8,84.84
+376197,Industrial,Domestic water,8,52.03
+43100,Military,Mech. Duct,8,12.19
+108152,School,Sanitary & Storm,8,22.50
+20500,Other Commercial,Fire Alarm,8,0.70
+151600,School,Telecomm,8,7.97
+183000,School,Power,8,19.69
+22100,Hotel,Mech. Pipe,8,5.39
+284000,Office Building,Power,8,17.81
+284000,Office Building,Telecomm,8,7.50
+28500,Industrial,Fire Alarm,8,1.87
+50000,Military,Sanitary & Storm,8,13.12
+50000,Military,Domestic water,8,9.37
+22000,School,Mech. Duct,8,15.94
+119336,Warehouse / Supermarket,Lighting,8,3.52
+46000,Government,Fire Alarm,8,2.34
+78800,College / University,Mech. Duct,8,23.91
+269961,Residential,Mech. Pipe,8,22.50
+135963,Industrial,Fire Alarm,8,3.05
+495782,Office Building,Domestic water,8,20.16
+132000,School,Power,8,16.87
+115000,School,Fire Alarm,8,3.52
+77905,Healthcare,Power,8,16.17
+14500,Government,Power,8,5.62
+23900,Healthcare,Mech. Duct,8,7.50
+39971,Healthcare,Domestic water,8,8.91
+60391,Military,Sanitary & Storm,8,14.88
+60391,Military,Power,8,13.12
+308000,School,AV /Wireless,8,5.86
+116500,School,Telecomm,8,7.50
+313360,Office Building,Mech. Pipe,8,17.06
+81900,School,Mech. Duct,8,24.61
+81900,School,Power,8,13.59
+35000,Government,Mech. Duct,8,12.19
+35000,Government,Lighting,8,3.98
+159906,Other Commercial,Fire Alarm,8,2.81
+75900,Industrial,Power,8,15.94
+48169,Healthcare,Mech. Duct,8,15.94
+74505,Residential,Power,8,16.87
+61465,Government,Domestic water,8,10.78
+45000,Other Commercial,Telecomm,8,5.16
+182000,College / University,Lighting,8,8.91
+135963,Industrial,Fire Alarm,8,3.05
+55806,Warehouse / Supermarket,Mech. Duct,8,13.12
+57802,Healthcare,Mech. Duct,8,19.69
+94892,School,Mech. Duct,8,26.25
+363424,Residential,Lighting,8,16.92
+363424,Residential,Power,8,29.30
+134972,College / University,Power,8,16.87
+85000,Military,Power,8,14.06
+48900,College / University,Sanitary & Storm,8,11.72
+179833,Government,Mech. Duct,8,28.59
+53830,Transport,Power,8.5,8.56
+178000,School,Mech. Duct,8.5,39.79
+184532,Military,Fire Alarm,8.5,14.25
+138309,Healthcare,Power,8.5,19.20
+23900,Healthcare,Fire Alarm,8.5,1.85
+72000,Other Commercial,Mech. Duct,8.5,16.66
+252000,School,Power,8.5,24.99
+246096,School,Lighting,8.5,19.67
+264085,Residential,Lighting,8.5,15.36
+66000,Industrial,Sanitary & Storm,8.5,12.49
+144303,School,Domestic water,8.5,20.82
+57630,Warehouse / Supermarket,Power,8.5,8.79
+74467,School,Domestic water,8.5,13.88
+60252,Office Building,Mech. Duct,8.5,17.58
+60252,Office Building,Mech. Pipe,8.5,10.18
+60252,Office Building,Sanitary & Storm,8.5,14.34
+60252,Office Building,Power,8.5,12.49
+222000,Residential,Sanitary & Storm,8.5,39.10
+246810,School,Domestic water,8.5,31.93
+246810,School,Power,8.5,24.99
+104000,College / University,Mech. Pipe,8.5,19.90
+104000,College / University,Power,8.5,15.27
+10886,Other Commercial,Lighting,8.5,4.40
+62000,Government,Domestic water,8.5,11.11
+45000,Other Commercial,Domestic water,8.5,9.25
+15552,Healthcare,Domestic water,8.5,4.63
+251000,Office Building,Power,8.5,18.05
+222000,Parking,Fire Alarm,8.5,1.76
+47000,Healthcare,Lighting,8.5,7.40
+115000,College / University,Lighting,8.5,6.71
+199000,Government,AV /Wireless,8.5,5.55
+43100,Military,Mech. Pipe,8.5,8.33
+108152,School,Telecomm,8.5,7.40
+81544,College / University,Telecomm,8.5,5.55
+30632,Other Educational,Domestic water,8.5,9.25
+400000,Hotel,Power,8.5,36.09
+213321,Residential,Mech. Duct,8.5,34.47
+64105,Residential,Mech. Pipe,8.5,10.18
+28500,Industrial,Telecomm,8.5,3.70
+80950,Warehouse / Supermarket,Mech. Pipe,8.5,9.72
+114000,Office Building,Sanitary & Storm,8.5,16.66
+124000,Office Building,Sanitary & Storm,8.5,16.94
+22000,School,Sanitary & Storm,8.5,9.72
+78800,College / University,Domestic water,8.5,12.03
+269961,Residential,Mech. Duct,8.5,38.87
+110000,School,Mech. Pipe,8.5,16.20
+83774,School,Fire Alarm,8.5,2.78
+1100000,Residential,Fire Alarm,8.5,43.50
+300000,Residential,Telecomm,8.5,9.72
+85000,School,Sanitary & Storm,8.5,20.13
+14500,Government,Lighting,8.5,2.31
+14500,Government,Telecomm,8.5,2.08
+14500,Government,AV /Wireless,8.5,2.08
+23900,Healthcare,Fire Alarm,8.5,1.85
+39300,College / University,Power,8.5,11.57
+313360,Office Building,Mech. Duct,8.5,21.75
+81900,School,Domestic water,8.5,14.34
+81900,School,Fire Alarm,8.5,2.78
+100000,School,Domestic water,8.5,17.00
+32000,Government,Domestic water,8.5,8.79
+124000,School,Mech. Duct,8.5,31.00
+74505,Residential,Mech. Pipe,8.5,10.87
+18878,Healthcare,Mech. Pipe,8.5,5.09
+242089,Residential,AV /Wireless,8.5,5.55
+45131,Healthcare,Domestic water,8.5,11.11
+33152,Government,Lighting,8.5,4.16
+146000,Healthcare,Power,8.5,20.36
+45000,Other Commercial,Domestic water,8.5,9.25
+35000,Government,Fire Alarm,8.5,2.08
+363424,Residential,Telecomm,8.5,9.25
+134972,College / University,Lighting,8.5,7.87
+52143,Residential,Sanitary & Storm,8.5,27.30
+6000,Industrial,Power,8.5,2.31
+105000,Military,Lighting,9,8.91
+184532,Military,Telecomm,9,17.36
+72000,Other Commercial,Sanitary & Storm,9,20.55
+160000,Government,Power,9,29.23
+106000,College / University,Domestic water,9,17.36
+450000,School,Fire Alarm,9,13.70
+103500,Office Building,Fire Alarm,9,4.11
+103500,Office Building,Telecomm,9,7.31
+184374,College / University,Power,9,21.93
+73580,School,Power,9,15.07
+144303,School,Lighting,9,13.25
+36127,Healthcare,Medical Gas,9,5.48
+74467,School,Mech. Pipe,9,12.79
+115000,School,Sanitary & Storm,9,27.41
+23500,Government,Sanitary & Storm,9,13.25
+222000,Residential,Domestic water,9,31.52
+246810,School,AV /Wireless,9,5.48
+141936,School,Telecomm,9,9.14
+62000,Government,Mech. Pipe,9,10.96
+60183,College / University,AV /Wireless,9,2.28
+260000,Industrial,Mech. Pipe,9,35.17
+45000,Other Commercial,Mech. Duct,9,15.53
+45000,Other Commercial,Sanitary & Storm,9,15.07
+130500,Warehouse / Supermarket,Mech. Duct,9,15.07
+130500,Warehouse / Supermarket,Mech. Pipe,9,10.51
+130500,Warehouse / Supermarket,Domestic water,9,8.68
+251000,Office Building,Lighting,9,10.96
+155150,Residential,Telecomm,9,9.59
+199000,Government,Power,9,34.72
+139000,School,Mech. Pipe,9,20.10
+139000,School,Sanitary & Storm,9,32.43
+81544,College / University,Fire Alarm,9,2.74
+73000,Government,Mech. Pipe,9,12.33
+73000,Government,Domestic water,9,12.33
+30632,Other Educational,Sanitary & Storm,9,13.70
+213321,Residential,Telecomm,9,9.82
+114000,Office Building,Lighting,9,9.14
+22000,School,Domestic water,9,9.14
+145000,School,Lighting,9,13.70
+46000,Government,AV /Wireless,9,2.74
+49000,Warehouse / Supermarket,Mech. Pipe,9,10.05
+132000,School,Mech. Pipe,9,19.18
+445000,Residential,Fire Alarm,9,16.44
+79000,Government,Sanitary & Storm,9,16.67
+36699,School,Sanitary & Storm,9,12.79
+120000,College / University,Telecomm,9,6.85
+39971,Healthcare,Mech. Duct,9,15.30
+308000,School,Sanitary & Storm,9,61.66
+308000,School,Domestic water,9,39.40
+308000,School,Power,9,32.20
+81900,School,Sanitary & Storm,9,20.55
+17300,Government,Lighting,9,2.74
+115000,School,Sanitary & Storm,9,26.95
+75900,Industrial,Telecomm,9,6.85
+61800,Other Commercial,Mech. Pipe,9,10.51
+140500,Office Building,Mech. Pipe,9,13.70
+48169,Healthcare,Sanitary & Storm,9,16.44
+18878,Healthcare,Domestic water,9,5.48
+33152,Government,Telecomm,9,3.65
+45000,Other Commercial,Sanitary & Storm,9,15.07
+35000,Government,Power,9,9.36
+55806,Warehouse / Supermarket,Mech. Pipe,9,10.51
+342000,School,Sanitary & Storm,9,68.52
+60000,Healthcare,Telecomm,9,6.39
+134972,College / University,Telecomm,9,7.31
+52143,Residential,Mech. Duct,9,24.67
+48900,College / University,Mech. Duct,9,17.36
+262000,Warehouse / Supermarket,Mech. Pipe,9.5,11.27
+17500,College / University,Fire Alarm,9.5,0.90
+23900,Healthcare,Mech. Duct,9.5,8.57
+72000,Other Commercial,Domestic water,9.5,12.85
+106000,College / University,Power,9.5,17.13
+61000,School,Lighting,9.5,7.89
+144303,School,Mech. Duct,9.5,39.23
+81544,College / University,Lighting,9.5,6.54
+405802,Residential,Telecomm,9.5,10.82
+115000,School,Mech. Duct,9.5,34.72
+345000,Healthcare,Lighting,9.5,13.98
+8000,Industrial,Lighting,9.5,3.61
+196000,Healthcare,Lighting,9.5,11.05
+196000,Healthcare,Power,9.5,25.48
+25000,College / University,AV /Wireless,9.5,0.72
+225647,School,Domestic water,9.5,33.59
+35000,Healthcare,Telecomm,9.5,4.51
+60183,College / University,Mech. Duct,9.5,23.00
+60183,College / University,Sanitary & Storm,9.5,16.68
+45000,Other Commercial,Power,9.5,13.53
+15552,Healthcare,Sanitary & Storm,9.5,4.96
+14470,Healthcare,Mech. Duct,9.5,4.51
+18650,Healthcare,Mech. Pipe,9.5,5.41
+139000,School,Telecomm,9.5,9.47
+73000,Government,Sanitary & Storm,9.5,17.59
+50000,Warehouse / Supermarket,Sanitary & Storm,9.5,12.63
+30632,Other Educational,Lighting,9.5,5.41
+400000,Hotel,Lighting,9.5,22.55
+80950,Warehouse / Supermarket,Telecomm,9.5,4.51
+158000,School,Medical Gas,9.5,7.21
+49000,Warehouse / Supermarket,Mech. Duct,9.5,15.33
+49000,Warehouse / Supermarket,Domestic water,9.5,9.36
+1100000,Residential,Power,9.5,71.24
+11800,Industrial,Power,9.5,3.83
+79000,Government,Mech. Duct,9.5,20.29
+79000,Government,Domestic water,9.5,13.75
+104094,School,Mech. Duct,9.5,31.79
+104094,School,Domestic water,9.5,18.71
+115000,School,Mech. Duct,9.5,34.72
+61465,Government,Sanitary & Storm,9.5,17.13
+124000,Residential,AV /Wireless,9.5,5.41
+45000,Other Commercial,Power,9.5,13.53
+201272,Residential,Mech. Duct,9.5,39.23
+35000,Government,Lighting,9.5,4.96
+347122,Industrial,Lighting,9.5,22.32
+17800,Government,Fire Alarm,9.5,1.58
+52143,Residential,Mech. Pipe,9.5,10.60
+13250,Healthcare,Mech. Duct,9.5,4.06
+141360,Warehouse / Supermarket,Power,10,10.68
+23900,Healthcare,Sanitary & Storm,10,8.90
+14520,College / University,Telecomm,10,4.45
+103500,Office Building,Lighting,10,10.02
+80000,School,Lighting,10,9.57
+184374,College / University,Lighting,10,11.57
+470174,School,Telecomm,10,20.48
+36127,Healthcare,Telecomm,10,5.12
+23500,Government,Mech. Pipe,10,7.57
+222000,Residential,Lighting,10,17.03
+104000,College / University,Fire Alarm,10,4.01
+74964,School,Power,10,16.02
+26000,School,Lighting,10,5.43
+62000,Government,Sanitary & Storm,10,18.25
+36000,Residential,Mech. Pipe,10,9.57
+47000,Healthcare,Sanitary & Storm,10,18.70
+47000,Healthcare,Domestic water,10,13.80
+47000,Healthcare,Power,10,19.59
+115000,College / University,Telecomm,10,7.43
+150000,Healthcare,Power,10,23.81
+108152,School,Mech. Pipe,10,18.70
+50000,Warehouse / Supermarket,Mech. Duct,10,16.02
+183000,School,Telecomm,10,11.57
+80950,Warehouse / Supermarket,Power,10,10.68
+114000,Office Building,Domestic water,10,14.24
+78800,College / University,Sanitary & Storm,10,22.26
+88000,Government,Telecomm,10,9.35
+110000,School,Telecomm,10,8.90
+132000,School,Mech. Duct,10,38.73
+11800,Industrial,Telecomm,10,3.34
+186000,Office Building,Lighting,10,11.66
+116500,School,Domestic water,10,21.37
+81900,School,Telecomm,10,8.23
+104094,School,Sanitary & Storm,10,28.71
+842043,Warehouse / Supermarket,Mech. Pipe,10,12.73
+18878,Healthcare,Sanitary & Storm,10,6.68
+143516,Residential,Power,10,26.43
+55806,Warehouse / Supermarket,Lighting,10,4.34
+55806,Warehouse / Supermarket,Telecomm,10,4.45
+32638,Transport,Sanitary & Storm,10,8.46
+79700,Industrial,Domestic water,10,16.25
+166506,School,AV /Wireless,10,5.34
+62500,Healthcare,Sanitary & Storm,10,24.48
+62500,Healthcare,Domestic water,10,16.91
